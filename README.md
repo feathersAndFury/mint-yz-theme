@@ -1,3 +1,4 @@
 # Mint-Y2: new colors and more
-#### All my work is happening on this branch:
-#### https://github.com/SebastJava/mint-themes/tree/Y-colors
+#### This master branch should be left unchanged.
+#### Please check out my other branches:
+#### https://github.com/SebastJava/mint-themes/branches
