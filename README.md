@@ -1,5 +1,5 @@
 ![auto branch icon](https://github.com/SebastJava/mint-themes/blob/auto/0-auto-branch-icon.svg)
-# Automated color updates
+# Automated color updates (old backup copy !!!)
 This branch is only for improving automated color updates, the new colors themselves are onto another branch. With this auto branch here, building Mint-Y-Colors is now 100% automated. Before, the following parts had to be done by hand and are now automated, just like the rest:  
   * gtk-2.0/menubar-toolbar/  
   * gtk-3.0/thumbnails/  
