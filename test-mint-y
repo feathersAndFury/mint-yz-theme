@@ -7,9 +7,9 @@ cd src/Mint-Y
 
 cd $CURDIR
 
-sudo rm -rf /usr/share/themes/Mint-Y
-sudo cp -R usr/share/themes/Mint-Y /usr/share/themes/Mint-Y
+sudo rm -rf /usr/share/themes/Mint-Yz-Base
+sudo cp -R usr/share/themes/Mint-Yz-Base /usr/share/themes/Mint-Yz-Base
 
 # Force refresh
-gsettings set org.cinnamon.desktop.interface gtk-theme 'Mint-Y-Blue'
 gsettings set org.cinnamon.desktop.interface gtk-theme 'Mint-Y'
+gsettings set org.cinnamon.desktop.interface gtk-theme 'Mint-Yz-Base'

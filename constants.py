@@ -30,7 +30,7 @@ x_rgb_colors["Sand"] = "200, 172, 105"
 x_rgb_colors["Teal"] = "90, 170, 154"
 
 
-# Mint-Y
+# Mint-Yz
 Y_HEX_ACCENT1 = ["#92b372"]  # BASE
 Y_HEX_ACCENT2 = ["#8fa876"]  # DARK
 Y_HEX_ACCENT3 = ["#afca95"]  # PRELIGHT/HOVER
