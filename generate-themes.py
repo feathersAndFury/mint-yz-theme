@@ -151,9 +151,6 @@ for color in y_hex_colors1.keys():
                     for accent in Y_HEX_ACCENT4:
                         os.system("sed -i s'/%(accent)s/%(color_accent)s/gI' %(file)s" % {'accent': accent, 'color_accent': y_hex_colors4[color], 'file': file})
 
-            # Remove metacity-theme-3.xml (it doesn't need to be derived since it's using GTK colors, and Cinnamon doesn't want to list it)
-            os.system("rm -f %s" % os.path.join(theme, "metacity-1", "metacity-theme-3.xml"))
-
             directories = []
             directories.append(os.path.join(theme, "cinnamon/common-assets"))
             directories.append(os.path.join(theme, "cinnamon/light-assets"))
@@ -195,5 +192,7 @@ for color in y_hex_colors1.keys():
             os.system("cp -R %s/gtk-2.0/menubar-toolbar/*.png %s/gtk-2.0/menubar-toolbar" % (path, theme))
             os.system("cp -R %s/gtk-3.0/assets %s/gtk-3.0/assets" % (path, theme))
 
+# The original colors were kept to ensure automatic replacements. Now we can delete them.
+os.system("rm -rf usr/share/themes/Mint-Yz-Base usr/share/themes/Mint-Yz-Darker usr/share/themes/Mint-Yz-Darkest")
 print ("\nDone. Are there any missing colors?")
 print ("If so then run './update-variations.py All' and then './generate-themes.py' again.")
