@@ -1,0 +1,16 @@
+#!/bin/bash
+
+CURDIR=`pwd`
+
+echo "Please choose to update 'All' color variations or one specific color,"
+echo "like 'Mint' or 'Aqua'..."
+read colorinput
+./update-variations.py $colorinput
+./generate-themes.py
+
+sudo rm -rf /usr/share/themes/Mint-Yz-*
+sudo cp -r usr/share/themes/Mint-Yz-* /usr/share/themes/
+
+# Force refresh
+gsettings set org.cinnamon.desktop.interface gtk-theme 'Mint-Yz-Base-Aqua'
+gsettings set org.cinnamon.desktop.interface gtk-theme 'Mint-Yz-Base-Mint'
