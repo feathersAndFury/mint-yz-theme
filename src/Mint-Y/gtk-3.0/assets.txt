@@ -72,6 +72,8 @@ switch-header-dark
 switch-active-header-dark
 switch-insensitive-header-dark
 switch-active-insensitive-header-dark
+thumbnail
+thumbnail-dark
 titlebutton-close-dark
 titlebutton-close-backdrop-dark
 titlebutton-close-hover-dark
@@ -84,5 +86,3 @@ titlebutton-min-dark
 titlebutton-min-backdrop-dark
 titlebutton-min-hover-dark
 titlebutton-min-active-dark
-thumbnail
-thumbnail-dark

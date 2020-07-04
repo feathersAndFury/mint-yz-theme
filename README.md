@@ -4,7 +4,7 @@ Your GTK theme is now re-edited with some brand new, professionally designed col
 ![image of the new colors](https://github.com/SebastJava/mint-themes/blob/colors/Mint-Y-Colors/Mint-Y-Variations-NEW.png)
 
 ### I just want to see it and try it!
-You can install this re-edited theme alongside your official Mint-Y. This new version is renamed **Mint-Yz,** so you don’t have to remove the old Mint-y, and you can always go back quickly and easily. To install and try this new one, click (WORK-IN-PROGRESS)
+You can install this re-edited theme alongside your official Mint-Y. This new version is renamed **Mint-Yz,** so you don’t have to remove the old Mint-Y, and you can always go back quickly and easily. To install and try this new one, click (WORK-IN-PROGRESS)
 
 ### Carefully chosen colors and precise engineering
 This color branch here is the sum of a lot of work. At the start there was the Horst3180 Arc-theme. On this well-designed and solid foundation was created the Mint-Y theme, which has evolved considerably since. Then I created a fork of this Mint-Y and made some small improvements on the auto branch, to get things 100% automated. And finally, this colors branch was created on top of all that.

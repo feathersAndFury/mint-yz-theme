@@ -61,9 +61,9 @@ y_hex_colors2["Mint"] = "#008F60"
 y_hex_colors3["Mint"] = "#40BE95"
 y_hex_colors4["Mint"] = "#000000"
 
-y_hex_colors1["Aqua"] = "#00A2C2"
-y_hex_colors2["Aqua"] = "#008AA5"
-y_hex_colors3["Aqua"] = "#40B9D1"
+y_hex_colors1["Aqua"] = "#15A4C1"
+y_hex_colors2["Aqua"] = "#128CA4"
+y_hex_colors3["Aqua"] = "#50BBD1"
 y_hex_colors4["Aqua"] = "#000000"
 
 y_hex_colors1["Blue"] = "#2A80D5"
