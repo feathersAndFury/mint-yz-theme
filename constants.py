@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 
-# Mint-X
+# MINT-X
+
 X_HEX_ACCENTS = ["#9ab87c", "#accd8a"]
 
 x_hex_colors = {}
@@ -30,7 +31,14 @@ x_rgb_colors["Sand"] = "200, 172, 105"
 x_rgb_colors["Teal"] = "90, 170, 154"
 
 
-# Mint-Yz
+# MINT-Yz
+
+# colors1 IS THE MAIN ACCENT COLOR for the light themes.
+# colors2 IS ONLY FOR the dark (or darker?) variants, except some colors2 also found in a few elements in /usr/share/themes/Mint-Y-Aqua/cinnamon/common-assets/
+# colors3 IS ONLY FOR ~/mint-themes/src/Mint-Y/variations/Aqua/gtk-3.0/assets.svg: titlebutton-close-hover
+# colors4 IS ONLY FOR ~/mint-themes/src/Mint-Y/variations/Aqua/gtk-3.0/assets.svg: titlebutton-close-active
+# At least this was true as of 2020-06-07 (YYYY-MM-DD).
+
 Y_HEX_ACCENT1 = ["#92b372"]  # BASE
 Y_HEX_ACCENT2 = ["#8fa876"]  # DARK
 Y_HEX_ACCENT3 = ["#afca95"]  # PRELIGHT/HOVER
