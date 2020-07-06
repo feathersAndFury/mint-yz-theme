@@ -23,7 +23,6 @@ This theme is based on the Mint-Y theme, which is based on the Arc theme: <br>
 &emsp;&emsp; Author: horst3180 http://horst3180.deviantart.com/ <br>
 &emsp;&emsp; License: GPL v3
 
-**References:**
-
+### References
  1. [UXmovement-BackgroundColors](https://uxmovement.com/content/why-you-should-avoid-bright-saturated-background-colors/)
  2. [WCAG-ColorContrasts](https://colorable.jxnblk.com)

@@ -1,4 +1,4 @@
-Source: mint-themes
+Source: mint-yz-theme
 Maintainer: Sébastien Bouchard <sebastjava@hotmail.ca>
 Section: gnome
 Priority: optional
@@ -9,18 +9,22 @@ Build-Depends: debhelper (>= 9),
                imagemagick
 Standards-Version: 3.9.5
 
-Package: mint-themes
+Package: mint-yz-theme
 Architecture: all
 Depends: ${misc:Depends},
          mint-x-icons,
          mint-y-icons
-Conflicts: mint-clearlooks-theme,
+Conflicts: mint-clearloox-theme,
            mint-x-theme,
+           mint-y-theme,
+           mint-z-theme,
            mint-themes-gtk3,
            cinnamon-themes
-Replaces: mint-clearlooks-theme,
+Replaces: mint-clearloox-theme,
           mint-x-theme,
+          mint-y-theme,
+          mint-z-theme,
           mint-themes-gtk3,
           cinnamon-themes
-Description: Mint-Yz themes
- A fork of the Mint-Y themes with better colors and more.
+Description: Mint-Yz theme
+ A fork of the mint-themes (Mint-Y) with better colors and more.
