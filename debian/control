@@ -14,16 +14,12 @@ Architecture: all
 Depends: ${misc:Depends},
          mint-x-icons,
          mint-y-icons
-Conflicts: mint-clearloox-theme,
+Conflicts: mint-clearlooks-theme,
            mint-x-theme,
-           mint-y-theme,
-           mint-z-theme,
            mint-themes-gtk3,
            cinnamon-themes
-Replaces: mint-clearloox-theme,
+Replaces: mint-clearlooks-theme,
           mint-x-theme,
-          mint-y-theme,
-          mint-z-theme,
           mint-themes-gtk3,
           cinnamon-themes
 Description: Mint-Yz themes
