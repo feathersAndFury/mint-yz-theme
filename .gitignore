@@ -11,8 +11,8 @@ __pycache__/*
 src/Mint-Y/variations/*
 usr/*
 
-debian/mint-themes/*
+debian/mint-yz-theme/*
 debian/.debhelper/*
 debian/files
-debian/mint-themes.debhelper.log
-debian/mint-themes.substvars
+debian/mint-yz-theme.debhelper.log
+debian/mint-yz-theme.substvars
