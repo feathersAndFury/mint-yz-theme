@@ -2,6 +2,7 @@ Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: mint-themes
 Upstream-Contact: Sébastien Bouchard <sebastjava@hotmail.ca>
 Source: https://github.com/SebastJava/mint-themes/tree/colors
+Comment: This is a fork of https://github.com/linuxmint/mint-themes
 Copyright: 2012-2020 Clement Lefebvre <root@linuxmint.com>
  2020 Sébastien Bouchard <sebastjava@hotmail.ca>
 
