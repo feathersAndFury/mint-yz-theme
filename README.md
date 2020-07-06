@@ -16,6 +16,13 @@ Be aware that our eyes appreciate colors by comparison. When compared with the o
 
 Of course, not all colors are treated equally. There is no way you can make a seriously subdued orange without making it turn into some altered, brownish color. But if this orange looks too energized to your taste, just switch to another color! You have plenty of choice here. And if you are still unsure, you can always go back to the old colors. This new set is called **Mint-Yz** and gets installed alongside the old **Mint-Y,** letting you choose between the old and the new.
 
+### Credits
+This theme is based on the Mint-Y theme, which is based on the Arc theme:  
+   Link: https://github.com/linuxmint/mint-themes  
+   Link: https://github.com/horst3180/arc-theme
+   Author: horst3180 http://horst3180.deviantart.com/
+   License: GPL v3
+
 **References:**
 
  1. [UXmovement-BackgroundColors](https://uxmovement.com/content/why-you-should-avoid-bright-saturated-background-colors/)
