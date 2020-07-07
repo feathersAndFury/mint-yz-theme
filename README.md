@@ -1,13 +1,17 @@
 # Mint-Yz: the new colors of a new era (gtk theme)
 The interface of all software and the entire desktop is rejuvenated, modernized. Your Linux Mint GTK theme now comes in more energized and readable colors.
-The Mint-Y theme is now re-edited with some brand new, professionally designed colors. And all of this is done on a solid foundation of improved shell and python programs. It is also renamed "Mint-Yz" and is a separate Debian package. This means you can install it in addition to the standard Mint-Y, compare, experiment, and change your mind at any time. And all of this is made very easy.
+The **Mint-Y** theme is now re-edited with some brand new, professionally designed colors. And all of this is done on a solid foundation of improved shell and python programs. It is also renamed **Mint-Yz** and is a separate Debian package. This means you can install it in addition to the standard Mint-Y, compare, experiment, and change your mind at any time. Your good old Mint-Y will not be removed or changed. And all of this is made very easy, see the installation instructions below.
 
 ![preview of the new desktop](https://github.com/SebastJava/mint-yz-theme/blob/colors/Mint-Y-Colors/preview-Nemo-Mint-2.png)
 
 ![image of the new colors](https://github.com/SebastJava/mint-yz-theme/blob/colors/Mint-Y-Colors/Mint-Y-Variations-NEW.png)
 
-### I just want to see it and try it!
-You can install this re-edited theme alongside your official Mint-Y. This new version is renamed **Mint-Yz,** so you don’t have to remove the old Mint-Y, and you can always go back quickly and easily. To install and try this new one, click (WORK-IN-PROGRESS)
+### Installation
+1. Go to the [Releases](https://github.com/SebastJava/mint-yz-theme/releases) page.
+1. Select the latest. Click on **Assets** to see the files. (under the short presentation)
+1. Download the **mint-yz-theme_x.x-x_all.deb** file. (x.x-x = version number)
+1. Open it and click the **[Install Package]** button.
+1. Select your new themes in **Menu > Preferences > Themes**
 
 ### Carefully chosen colors and precise engineering
 This color branch here is the sum of a lot of work. At the start there was the Horst3180 Arc-theme. On this well-designed and solid foundation was created the Mint-Y theme, which has evolved considerably since. Then I created a fork of this Mint-Y and made some small improvements on the auto branch, to get things 100% automated. And finally, this colors branch was created on top of all that.
