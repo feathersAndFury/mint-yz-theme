@@ -23,7 +23,6 @@ Of course, not all colors are treated equally. There is no way you can make a se
 This theme is based on the Mint-Y theme, which is based on the Arc theme: <br>
 &emsp;&emsp; Link: https://github.com/linuxmint/mint-themes  <br>
 &emsp;&emsp; Link: https://github.com/horst3180/arc-theme <br>
-&emsp;&emsp; Author: horst3180 http://horst3180.deviantart.com/ <br>
 &emsp;&emsp; License: GPL v3
 
 ### References
