@@ -7,8 +7,8 @@ The **Mint-Y** theme is now re-edited with some brand new, professionally design
 ![image of the new colors](https://github.com/SebastJava/mint-yz-theme/blob/colors/Mint-Y-Colors/Mint-Y-Variations-NEW.png)
 
 ### Installation
-1. Go to the [Releases](https://github.com/SebastJava/mint-yz-theme/releases) page.
-1. Select the latest. Click on **Assets** to see the files. (under the short presentation)
+1. Go to the [Releases](https://github.com/SebastJava/mint-yz-theme/releases) page. Select the latest.
+1. Click on **Assets** to see the files if needed. (under the short presentation)
 1. Download the **mint-yz-theme_x.x-x_all.deb** file. (x.x-x = version number)
 1. Open it and click the **[Install Package]** button.
 1. Select your new themes in **Menu > Preferences > Themes**
