@@ -153,7 +153,5 @@ for color in y_hex_colors1.keys():
             os.system("cp -R %s/gtk-2.0/menubar-toolbar/*.png %s/gtk-2.0/menubar-toolbar" % (path, theme))
             os.system("cp -R %s/gtk-3.0/assets %s/gtk-3.0/assets" % (path, theme))
 
-# The original colors were kept to ensure automatic replacements. Now we can delete them.
-os.system("rm -rf usr/share/themes/Mint-Yz-Base usr/share/themes/Mint-Yz-Darker usr/share/themes/Mint-Yz-Darkest")
 print ("\nDone. Are there any missing colors?")
 print ("If so then run './update-variations.py All' and then './generate-themes.py' again.")
