@@ -2,7 +2,7 @@
 The interface of all software and the entire desktop is rejuvenated, modernized. Your Linux Mint GTK theme now comes in more energized and readable colors.
 The **Mint-Y** theme is now re-edited with some brand new, professionally designed colors. And all of this is done on a solid foundation of improved shell and python programs. It is also renamed **Mint-Yz** and is a separate Debian package. This means you can install it in addition to the standard Mint-Y, compare, experiment, and change your mind at any time. Your good old Mint-Y will not be removed or changed. And all of this is made very easy, see the installation instructions below.
 
-![preview of the new desktop](https://github.com/SebastJava/mint-yz-theme/blob/colors/Mint-Y-Colors/preview-Nemo-Mint-2.png)
+![preview of the new desktop](https://github.com/SebastJava/mint-yz-theme/blob/colors/Mint-Y-Colors/preview-nemo-mint-3.png)
 
 ![image of the new colors](https://github.com/SebastJava/mint-yz-theme/blob/colors/Mint-Y-Colors/Mint-Y-Variations-NEW.png)
 
