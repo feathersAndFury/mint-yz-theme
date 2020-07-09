@@ -7,45 +7,45 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="0-colors-branch-icon.svg"
-   inkscape:version="1.0 (1.0+r73+1)"
-   id="svg8"
-   version="1.1"
-   viewBox="0 0 25.5056 25.4"
+   width="96"
    height="96"
-   width="96">
+   viewBox="0 0 25.5056 25.4"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (1.0+r73+1)"
+   sodipodi:docname="0-colors-branch-icon.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
-     lock-margins="true"
-     viewbox-width="265.68333"
-     inkscape:window-maximized="1"
-     inkscape:window-y="0"
-     inkscape:window-x="0"
-     inkscape:window-height="839"
-     inkscape:window-width="1440"
-     units="px"
-     showgrid="false"
-     inkscape:document-rotation="0"
-     inkscape:current-layer="layer1"
-     inkscape:document-units="px"
-     inkscape:cy="42.15212"
-     inkscape:cx="27.641849"
-     inkscape:zoom="2"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     borderopacity="1.0"
-     bordercolor="#666666"
+     id="base"
      pagecolor="#ffffff"
-     id="base">
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2"
+     inkscape:cx="-4.108151"
+     inkscape:cy="22.15212"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1440"
+     inkscape:window-height="839"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     viewbox-width="265.68333"
+     lock-margins="true">
     <inkscape:grid
-       type="xygrid"
-       id="grid849"
-       spacingx="3.1882"
-       spacingy="3.175"
-       empspacing="2"
+       empopacity="0.25098039"
        empcolor="#ff3f3f"
-       empopacity="0.25098039" />
+       empspacing="2"
+       spacingy="3.175"
+       spacingx="3.1882"
+       id="grid849"
+       type="xygrid" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -60,65 +60,33 @@
     </rdf:RDF>
   </metadata>
   <g
-     id="layer1"
+     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     inkscape:label="Layer 1">
-    <rect
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0"
-       id="rect889"
-       width="25.505598"
-       height="25.505602"
-       x="0"
-       y="-0.0528" />
-    <rect
-       y="1.5413001"
-       x="1.5941"
-       height="3.1882"
-       width="22.3174"
-       id="rect873"
-       style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0" />
-    <rect
-       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0"
-       id="rect875"
-       width="22.3174"
-       height="3.1882"
-       x="1.5941"
-       y="4.7295003" />
-    <rect
-       y="7.9176998"
-       x="1.5941"
-       height="3.1882"
-       width="22.3174"
-       id="rect877"
-       style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0" />
-    <rect
-       style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0"
-       id="rect879"
-       width="22.3174"
-       height="3.1882"
-       x="1.5941"
-       y="11.1059" />
-    <rect
-       y="14.2941"
-       x="1.5941"
-       height="3.1882"
-       width="22.3174"
-       id="rect881"
-       style="fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0" />
-    <rect
-       style="fill:#ff8000;fill-opacity:1;stroke:none;stroke-width:0"
-       id="rect883"
-       width="22.3174"
-       height="3.1882"
-       x="1.5941"
-       y="17.4823" />
-    <rect
-       y="20.670502"
-       x="1.5941"
-       height="3.1882"
-       width="22.3174"
-       id="rect885"
-       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0" />
+     id="layer1">
+    <circle
+       style="fill:#ff0000;fill-opacity:1;stroke-width:0"
+       id="circle845"
+       cx="12.752799"
+       cy="12.699999"
+       r="12.7528" />
+    <circle
+       r="10.627333"
+       cy="12.699999"
+       cx="12.752799"
+       id="circle843"
+       style="fill:#ffaa00;fill-opacity:1;stroke-width:0" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0"
+       id="circle841"
+       cx="12.7528"
+       cy="12.7"
+       r="8.5018663" />
+    <circle
+       r="6.3764"
+       cy="12.7"
+       cx="12.7528"
+       id="path839"
+       style="fill:#0080ff;fill-opacity:1;stroke-width:0" />
   </g>
   <inkscape:templateinfo>
     <inkscape:name>SVG-template-1</inkscape:name>
