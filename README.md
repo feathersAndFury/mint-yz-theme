@@ -7,7 +7,7 @@ The **Mint-Y** theme is now re-edited with some brand new, professionally design
 ![image of the new colors](https://github.com/SebastJava/mint-yz-theme/blob/colors/Mint-Y-Colors/Mint-Y-Variations-NEW.png)
 
 ### Installation
-First, check your system is not too old for this theme to work properly. This theme works well on Linux Mint 19 and up. (Gtk+ 3.22 or newer)
+First, check your system is not too old for this theme to work properly. This theme works well on Linux Mint 19 or newer. (Gtk+ 3.22 or newer)
 
 1. Go to the [Releases](https://github.com/SebastJava/mint-yz-theme/releases) page. Select the latest.
 1. Click on **Assets** to see the files if needed. (under the short presentation)
