@@ -7,6 +7,8 @@ The **Mint-Y** theme is now re-edited with some brand new, professionally design
 ![image of the new colors](https://github.com/SebastJava/mint-yz-theme/blob/colors/Mint-Y-Colors/Mint-Y-Variations-NEW.png)
 
 ### Installation
+First, check your system is not too old for this theme to work properly. This theme works well on Linux Mint 19 and above. (Gtk+ 3.22 or newer)
+
 1. Go to the [Releases](https://github.com/SebastJava/mint-yz-theme/releases) page. Select the latest.
 1. Click on **Assets** to see the files if needed. (under the short presentation)
 1. Download the **mint-yz-theme_x.x-x_all.deb** file. (x.x-x = version number)
@@ -19,14 +21,14 @@ This color branch here is the sum of a lot of work. At the start there was the H
 The colors convey energies, vibrations... They should not be too subdued. But they should not be set at full saturation and brightness either, because this could cause eye strain. So the saturation and lightness levels are carefully chosen here. And there is also the contrast with the white text in the foreground which received sustained attention. So these new colors here are not just nicer when compared with the old ones. They are nice, energized, driving, and more contrasted, thus more readable.
 
 ### Compare
-Be aware that our eyes appreciate colors by comparison. When compared with the old ones, these new colors look much more saturated, vibrant. But then compare them with some fully saturated and bright colors and you will see these new Mint-Yz colors are somewhat subdued, but just not as much as the old ones. You can see this in https://github.com/SebastJava/mint-themes/tree/colors/Mint-Y-Colors/compare So i hope you will find these new colors are just well balanced.
+Be aware that our eyes appreciate colors by comparison. When compared with the old ones, these new colors look much more saturated, vibrant. But then compare them with some fully saturated and bright colors and you will see these new Mint-Yz colors are somewhat subdued, but just not as much as the old ones. You can see this in [Mint-Y-Colors/compare](https://github.com/SebastJava/mint-themes/tree/colors/Mint-Y-Colors/compare) So i hope you will find these new colors are just well balanced.
 
 Of course, not all colors are treated equally. There is no way you can make a seriously subdued orange without making it turn into some altered, brownish color. But if this orange looks too energized to your taste, just switch to another color! You have plenty of choice here. And if you are still unsure, you can always go back to the old colors. This new set is called **Mint-Yz** and gets installed alongside the old **Mint-Y,** letting you choose between the old and the new.
 
 ### Credits
 This theme is based on the Mint-Y theme, which is based on the Arc theme: <br>
-&emsp;&emsp; Link: https://github.com/linuxmint/mint-themes  <br>
-&emsp;&emsp; Link: https://github.com/horst3180/arc-theme <br>
+&emsp;&emsp; Link: [https://github.com/linuxmint/mint-themes](https://github.com/linuxmint/mint-themes)  <br>
+&emsp;&emsp; Link: [https://github.com/horst3180/arc-theme](https://github.com/horst3180/arc-theme) <br>
 &emsp;&emsp; License: GPL v3
 
 ### References

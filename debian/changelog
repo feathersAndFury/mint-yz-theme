@@ -1,6 +1,6 @@
 mint-yz-theme (1.1-1) UNRELEASED; urgency=medium
 
   * Initial release. (Closes: #XXXXXX)
-  * The color of the window close button is now defined with hex value and can be selected separately.
+  * The color of the window close button is now defined with hex value.
 
  -- Sébastien Bouchard <sebastjava@hotmail.ca>  Sun, 12 Jul 2020 10:34:00 -0400
