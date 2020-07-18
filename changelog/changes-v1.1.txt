@@ -1,4 +1,0 @@
-- The Window borders and their close buttons can now truly be selected separately, when this feature is supported, like in Cinnamon and Mate.
-- Bug fix: in Cinnamon, when selecting another Controls theme, the close buttons in the Window borders did not instantly change accordingly. Now this is fixed, as listed above.
-- Window close button colors got standardized
-
