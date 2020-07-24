@@ -26,7 +26,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.73586957"
+     inkscape:zoom="0.7326087"
      inkscape:cx="820"
      inkscape:cy="460"
      inkscape:document-units="px"
@@ -90,7 +90,7 @@
      transform="translate(0,-91.799988)">
     <g
        transform="translate(820,91.799981)"
-       id="g1245">
+       id="g849">
       <g
          id="layer5"
          inkscape:label="Background">
@@ -104,7 +104,7 @@
       </g>
       <g
          transform="translate(0,-91.799988)"
-         id="layer1-1"
+         id="layer1-5"
          inkscape:label="colors1">
         <rect
            style="opacity:1;vector-effect:none;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -573,7 +573,7 @@
              height="180"
              width="180"
              id="rect816"
-             style="opacity:1;vector-effect:none;fill:#00a854;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+             style="opacity:1;vector-effect:none;fill:#22aa22;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
              xml:space="preserve"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
@@ -589,7 +589,7 @@
                x="439.56799"
                y="786.59198"
                style="line-height:18px;fill:#ffffff;fill-opacity:1"
-               id="tspan950">HSL 150,100,33</tspan><tspan
+               id="tspan950">HSL 120,67,40</tspan><tspan
                id="tspan992"
                sodipodi:role="line"
                x="439.56799"
@@ -671,7 +671,7 @@
            transform="translate(200,-450)"
            id="g955">
           <rect
-             style="opacity:1;vector-effect:none;fill:#009973;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             style="opacity:1;vector-effect:none;fill:#00a87f;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
              id="rect944"
              width="180"
              height="180"
@@ -692,12 +692,12 @@
                style="line-height:18px;fill:#ffffff;fill-opacity:1"
                y="786.59198"
                x="439.56799"
-               sodipodi:role="line">HSL 165,100,30</tspan><tspan
+               sodipodi:role="line">HSL 165,100,33</tspan><tspan
                style="line-height:18px;fill:#ffffff;fill-opacity:1"
                y="811.59198"
                x="439.56799"
                sodipodi:role="line"
-               id="tspan951">ColorContrast 3.5</tspan></text>
+               id="tspan951">ColorContrast 3.0</tspan></text>
         </g>
         <rect
            style="vector-effect:none;fill:#767676;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -710,7 +710,7 @@
       <g
          style="display:none"
          inkscape:label="colors2 (darken)"
-         id="layer2-7">
+         id="layer2-6">
         <rect
            y="100"
            x="0"
@@ -722,10 +722,10 @@
       <g
          style="display:none"
          inkscape:label="colors3 (lighten)"
-         id="layer3-7">
+         id="layer3-9">
         <rect
            style="display:inline;fill:#ffffff;fill-opacity:0.2;stroke-width:0"
-           id="rect937-2"
+           id="rect937-1"
            width="820"
            height="620"
            x="0"
@@ -740,7 +740,7 @@
            x="0"
            height="620"
            width="820"
-           id="rect940-6"
+           id="rect940-7"
            style="display:inline;fill:#000000;fill-opacity:0.3;stroke-width:0" />
       </g>
     </g>

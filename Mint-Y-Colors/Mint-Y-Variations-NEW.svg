@@ -9,7 +9,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:export-ydpi="96"
    inkscape:export-xdpi="96"
-   inkscape:export-filename="/home/sebastien/mint-yz-theme-1.1/Mint-Y-Colors/Mint-Y-Variations-NEW.png"
+   inkscape:export-filename="/home/sebastien/mint-yz-theme-1.2/Mint-Y-Colors/Mint-Y-Variations-NEW.png"
    sodipodi:docname="Mint-Y-Variations-NEW.svg"
    inkscape:version="1.0 (1.0+r73+1)"
    id="svg8"
@@ -39,8 +39,8 @@
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="460"
-     inkscape:cx="415.38405"
+     inkscape:cy="380"
+     inkscape:cx="497.6114"
      inkscape:zoom="1"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
@@ -84,7 +84,6 @@
        y="0" />
   </g>
   <g
-     sodipodi:insensitive="true"
      transform="translate(0,-91.799988)"
      id="layer1"
      inkscape:groupmode="layer"
@@ -556,7 +555,7 @@
          height="180"
          width="180"
          id="rect816"
-         style="opacity:1;vector-effect:none;fill:#00a854;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="opacity:1;vector-effect:none;fill:#22aa22;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
@@ -572,7 +571,7 @@
            x="439.56799"
            y="786.59198"
            style="line-height:18px;fill:#ffffff;fill-opacity:1"
-           id="tspan950">HSL 150,100,33</tspan><tspan
+           id="tspan950">HSL 120,67,40</tspan><tspan
            id="tspan992"
            sodipodi:role="line"
            x="439.56799"
@@ -654,7 +653,7 @@
        transform="translate(200,-450)"
        id="g955">
       <rect
-         style="opacity:1;vector-effect:none;fill:#009973;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;vector-effect:none;fill:#00a87f;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect944"
          width="180"
          height="180"
@@ -675,12 +674,12 @@
            style="line-height:18px;fill:#ffffff;fill-opacity:1"
            y="786.59198"
            x="439.56799"
-           sodipodi:role="line">HSL 165,100,30</tspan><tspan
+           sodipodi:role="line">HSL 165,100,33</tspan><tspan
            style="line-height:18px;fill:#ffffff;fill-opacity:1"
            y="811.59198"
            x="439.56799"
            sodipodi:role="line"
-           id="tspan951">ColorContrast 3.5</tspan></text>
+           id="tspan951">ColorContrast 3.0</tspan></text>
     </g>
     <rect
        style="vector-effect:none;fill:#767676;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
