@@ -1,4 +1,4 @@
-###message-colors.svg use:
+## message-colors.svg use:
 
 Copy-Paste those lines from the **svg file:**
 
