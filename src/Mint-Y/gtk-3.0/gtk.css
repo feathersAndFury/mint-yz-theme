@@ -400,26 +400,26 @@ button {
     background-clip: border-box;
     color: #ffffff;
     outline-color: rgba(255, 255, 255, 0.3);
-    background-color: #00A856;
-    border-color: #00A856; }
+    background-color: #00A870;
+    border-color: #00A870; }
     button.suggested-action.flat {
       border-color: transparent;
       background-color: transparent;
       background-image: none;
-      color: #00A856;
-      outline-color: rgba(0, 168, 86, 0.3); }
+      color: #00A870;
+      outline-color: rgba(0, 168, 112, 0.3); }
     button.suggested-action:hover {
       background-clip: border-box;
       color: #ffffff;
       outline-color: rgba(255, 255, 255, 0.3);
-      background-color: #00db70;
-      border-color: #00db70; }
+      background-color: #00db92;
+      border-color: #00db92; }
     button.suggested-action:active, button.suggested-action:checked {
       background-clip: border-box;
       color: #ffffff;
       outline-color: rgba(255, 255, 255, 0.3);
-      background-color: #00753c;
-      border-color: #00753c; }
+      background-color: #00754e;
+      border-color: #00754e; }
     button.suggested-action.flat:disabled {
       border-color: transparent;
       background-color: transparent;
@@ -631,7 +631,7 @@ modelbutton.flat arrow.right {
 
 button:link, button:visited,
 *:link {
-  color: #2A80D5; }
+  color: #1E77D2; }
   button:visited,
   *:link:visited {
     color: #A040BF; }
@@ -639,12 +639,12 @@ button:link, button:visited,
       color: #d3e1c7; }
   button:hover:link, button:hover:visited,
   *:link:hover {
-    color: #5599dd; }
+    color: #3f91e4; }
     *:selected button:hover:link, *:selected button:hover:visited, *:selected *:link:hover {
       color: #f4f7f1; }
   button:active:link, button:active:visited,
   *:link:active {
-    color: #2A80D5; }
+    color: #1E77D2; }
     *:selected button:active:link, *:selected button:active:visited, *:selected *:link:active {
       color: #e9f0e3; }
   infobar.info *:link, infobar.question *:link, infobar.warning *:link, infobar.error *:link, headerbar.selection-mode .subtitle:link,
@@ -1149,30 +1149,30 @@ headerbar .linked:not(.vertical).path-bar > button {
   background-clip: border-box;
   color: #ffffff;
   outline-color: rgba(255, 255, 255, 0.3);
-  background-color: #00A856;
-  border-color: #00A856; }
+  background-color: #00A870;
+  border-color: #00A870; }
   
   .primary-toolbar button.suggested-action.flat, headerbar button.suggested-action.flat {
     border-color: transparent;
     background-color: transparent;
     background-image: none;
-    color: #00A856;
-    outline-color: rgba(0, 168, 86, 0.3); }
+    color: #00A870;
+    outline-color: rgba(0, 168, 112, 0.3); }
   
   .primary-toolbar button.suggested-action:hover, headerbar button.suggested-action:hover {
     background-clip: border-box;
     color: #ffffff;
     outline-color: rgba(255, 255, 255, 0.3);
-    background-color: #00db70;
-    border-color: #00db70; }
+    background-color: #00db92;
+    border-color: #00db92; }
   
   .primary-toolbar button.suggested-action:active, headerbar button.suggested-action:active,
   .primary-toolbar button.suggested-action:checked, headerbar button.suggested-action:checked {
     background-clip: border-box;
     color: #ffffff;
     outline-color: rgba(255, 255, 255, 0.3);
-    background-color: #00753c;
-    border-color: #00753c; }
+    background-color: #00754e;
+    border-color: #00754e; }
   
   .primary-toolbar button.suggested-action:disabled, headerbar button.suggested-action:disabled {
     color: rgba(64, 64, 64, 0.55);
@@ -2284,8 +2284,8 @@ levelbar block.high {
   background-color: #92b372; }
 
 levelbar block.full {
-  border-color: #00A856;
-  background-color: #00A856; }
+  border-color: #00A870;
+  background-color: #00A870; }
 
 levelbar block.empty {
   background-color: rgba(48, 48, 48, 0.2);
@@ -2672,7 +2672,7 @@ infobar {
   infobar.error {
     background-color: #DF2131; }
   infobar.question {
-    background-color: #0CA1C0; }
+    background-color: #00A2C2; }
 
 .primary-toolbar toolbar.selection-mode button:hover,
 .selection-mode.primary-toolbar button:hover, .primary-toolbar .selection-mode.inline-toolbar button:hover, headerbar.selection-mode button:hover, row:selected button, infobar.info button, infobar.question button, infobar.warning button, infobar.error button {
@@ -3939,20 +3939,20 @@ filechooser placessidebar.sidebar list scrollbar, .nemo-window .sidebar scrollba
   background-clip: border-box;
   color: #ffffff;
   outline-color: rgba(255, 255, 255, 0.3);
-  background-color: #00A856;
-  border-color: #00A856; }
+  background-color: #00A870;
+  border-color: #00A870; }
   #restart_button.button:hover {
     background-clip: border-box;
     color: #ffffff;
     outline-color: rgba(255, 255, 255, 0.3);
-    background-color: #00db70;
-    border-color: #00db70; }
+    background-color: #00db92;
+    border-color: #00db92; }
   #restart_button.button:active, #restart_button.button:checked {
     background-clip: border-box;
     color: #ffffff;
     outline-color: rgba(255, 255, 255, 0.3);
-    background-color: #00753c;
-    border-color: #00753c; }
+    background-color: #00754e;
+    border-color: #00754e; }
 
 #greeter_infobar {
   border-bottom-width: 0;
@@ -4024,7 +4024,7 @@ window.background.lightdm .lightdm-combo {
 @define-color unfocused_borders #BDBDBD;
 @define-color warning_color #F46A25;
 @define-color error_color #DF2131;
-@define-color success_color #00A856;
+@define-color success_color #00A870;
 @define-color placeholder_text_color #A8A8A8;
 @define-color content_view_bg #ffffff;
 @define-color wm_title #404040;
