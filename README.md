@@ -1,5 +1,5 @@
 # Mint-Yz: The New Colors of a New Era (Gtk theme)
-**The interface of all your software and the entire desktop is now rejuvenated, modernized. This is a fork from your reliable Mint-Y theme. Your standard Linux Mint Gtk theme now comes in more energized and readable colors.**
+**The interface of all your software and the entire desktop is now rejuvenated, modernized. This is a fork from your reliable Mint-Y theme. This standard Linux Mint Gtk theme now comes in more energized and readable colors.**
 
 And all of this is done on a solid foundation of improved shell and python programs. It is also renamed **Mint-Yz** and is a separate Debian package. This means you can install it in addition to the standard **Mint-Y,** compare, experiment, and change your mind at any time. Your good old Mint-Y will not be removed or changed. And all of this is made very easy, see the installation instructions below.
 
