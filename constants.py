@@ -84,6 +84,11 @@ y_hex_colors2["BlueDeep"] = "#364CB9"
 y_hex_colors3["BlueDeep"] = "#657AE1"
 y_hex_colors4["BlueDeep"] = "#2C3E98"
 
+y_hex_colors1["PurpleDeep"] = "#811DC8"
+y_hex_colors2["PurpleDeep"] = "#811DC8"
+y_hex_colors3["PurpleDeep"] = "#9A4AD3"
+y_hex_colors4["PurpleDeep"] = "#5B148C"
+
 y_hex_colors1["Purple"] = "#A040BF"
 y_hex_colors2["Purple"] = "#8836A3"
 y_hex_colors3["Purple"] = "#B366CC"
