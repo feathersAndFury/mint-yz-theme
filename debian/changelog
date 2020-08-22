@@ -1,3 +1,9 @@
+mint-yz-theme (1.6) UNRELEASED; urgency=medium
+
+  * PurpleDeep hue 275->270 and Purple saturation 50->67.
+
+ -- Sébastien Bouchard <sebastjava@hotmail.ca>  Sat, 22 Aug 2020 12:51:55 -0400  
+
 mint-yz-theme (1.5) UNRELEASED; urgency=medium
 
   * Added PurpleDeep color.

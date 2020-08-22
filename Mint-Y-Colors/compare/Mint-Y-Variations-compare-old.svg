@@ -9,7 +9,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:export-ydpi="96"
    inkscape:export-xdpi="96"
-   inkscape:export-filename="/home/sebastien/mint-yz-theme-1.5/Mint-Y-Colors/compare/Mint-Y-Variations-compare-old.png"
+   inkscape:export-filename="/home/sebastien/mint-yz-theme-1.6/Mint-Y-Colors/compare/Mint-Y-Variations-compare-old.png"
    sodipodi:docname="Mint-Y-Variations-compare-old.svg"
    inkscape:version="1.0 (1.0+r73+1)"
    id="svg8"
@@ -40,7 +40,7 @@
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      inkscape:cy="460"
-     inkscape:cx="486.63551"
+     inkscape:cx="869.2219"
      inkscape:zoom="0.65243902"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
@@ -90,7 +90,7 @@
      inkscape:label="colors1">
     <g
        transform="translate(820,91.799981)"
-       id="g1274">
+       id="g1284">
       <g
          id="layer5-7"
          inkscape:label="Background">
@@ -509,7 +509,7 @@
              height="180"
              width="180"
              id="rect820-4"
-             style="opacity:1;vector-effect:none;fill:#a040bf;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+             style="opacity:1;vector-effect:none;fill:#ab2ad5;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
              id="text920-4"
              y="561.59198"
@@ -525,12 +525,12 @@
                style="line-height:18px;fill:#ffffff;fill-opacity:1"
                y="586.59198"
                x="439.56799"
-               sodipodi:role="line">HSL 285,50,50 </tspan><tspan
+               sodipodi:role="line">HSL 285,67,50 </tspan><tspan
                id="tspan918-7"
                style="line-height:18px;fill:#ffffff;fill-opacity:1"
                y="611.59198"
                x="439.56799"
-               sodipodi:role="line">ColorContrast 5.3</tspan></text>
+               sodipodi:role="line">ColorContrast 5.2</tspan></text>
         </g>
         <g
            transform="translate(-600,-250)"
@@ -705,7 +705,7 @@
            id="g958"
            transform="translate(200,-50)">
           <rect
-             style="opacity:1;vector-effect:none;fill:#811dc8;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             style="opacity:1;vector-effect:none;fill:#731dc8;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
              id="rect946"
              width="180"
              height="180"
@@ -726,12 +726,12 @@
                x="439.56799"
                y="586.59198"
                style="line-height:18px;fill:#ffffff;fill-opacity:1"
-               id="tspan952">HSL 275,75,45 </tspan><tspan
+               id="tspan952">HSL 270,75,45 </tspan><tspan
                sodipodi:role="line"
                x="439.56799"
                y="611.59198"
                style="line-height:18px;fill:#ffffff;fill-opacity:1"
-               id="tspan954">ColorContrast 7.1</tspan></text>
+               id="tspan954">ColorContrast 7.6</tspan></text>
         </g>
       </g>
       <g
