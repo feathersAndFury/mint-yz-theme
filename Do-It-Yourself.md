@@ -32,18 +32,18 @@ If you want to create your own theme, here is what to do.
 1. Install the required software and packages listed above.
 1. Git clone this repository, using your terminal: `git clone https://github.com/SebastJava/mint-yz-theme.git`. You may need to install the git package first.
 1. Edit the colors in the `constants.py` file. You can add new colors if you want to. You don’t have to place them in any particular order. I placed my colors in ascending order of hue, but it could have been sorted alphabetically or otherwise. Take a look at this `constants.py` file:
-   1. colors1 is the base color
-   1. colors2 is for the dark variants
-   1. colors3 and colors4 are just for those tiny `titlebutton-close-hover` and `titlebutton-close-active`, respectively.
+   1. `colors1` is the base color
+   1. `colors2` is for the dark variants
+   1. `colors3` and `colors4` are just for those tiny `titlebutton-close-hover` and `titlebutton-close-active`, respectively.
    1. Example, add your new color in constants.py: <br>
-`y_hex_colors1["MyNewColorName"] = "#40BF40"` <br>
-`y_hex_colors2["MyNewColorName"] = "#36A336"` <br>
-`y_hex_colors3["MyNewColorName"] = "#66CC66"` <br>
-`y_hex_colors4["MyNewColorName"] = "#2D862D"` <br>
-(colors2 = 15% darker, colors3 = 20% lighter, colors4 = 30% darker)
+`y_hex_`colors1`["MyNewColorName"] = "#40BF40"` <br>
+`y_hex_`colors2`["MyNewColorName"] = "#36A336"` <br>
+`y_hex_`colors3`["MyNewColorName"] = "#66CC66"` <br>
+`y_hex_`colors4`["MyNewColorName"] = "#2D862D"` <br>
+(`colors2` = 15% darker, `colors3` = 20% lighter, `colors4` = 30% darker)
 
-   1. I recommend setting colors2 15% darker, unless this color is already dark. The colors3 should be 20% lighter. And colors4 should be 30% darker.
-   1. OPTIONAL: I made a simple trick to quickly get those values and copy them into the `constants.py` file. Open the `Mint-Y-Colors/Mint-Y-Variations-NEW.svg` file into Inkscape. Check the different layers. There are layers named "colors2", "colors3" and "colors4". By making them visible only one layer at a time, i used a color picker to quickly "pick and paste" all the 11 colors for all those colors 1, 2, 3 and 4. But feel free to get those values any way you want.
+   1. I recommend setting `colors2` 15% darker, unless this color is already dark. The `colors3` should be 20% lighter. And `colors4` should be 30% darker.
+   1. OPTIONAL: I made a simple trick to quickly get those values and copy them into the `constants.py` file. Open the `Mint-Y-Colors/Mint-Y-Variations-NEW.svg` file into Inkscape. Check the different layers. There are layers named `colors2`, `colors3` and `colors4`. By making them visible only one layer at a time, i used a color picker to quickly "pick and paste" all the 11 colors for all those colors 1, 2, 3 and 4. But feel free to get those values any way you want.
 1. On the first time, you must run `~/mint-yz-theme-X.X$ ./update-variations.py All` from your terminal, in the mint-yz-theme-X.X directory. Later, you can replace `All` with one specific color name like `Blue` for quick testing.
 1. Next, run `~/mint-yz-theme-X.X$ ./generate-themes.py` from your terminal, in the mint-yz-theme-X.X directory.
 1. And finally, copy all the files from `~/mint-yz-theme-X.X/usr/share/themes/` into `usr/share/themes/` as root.
