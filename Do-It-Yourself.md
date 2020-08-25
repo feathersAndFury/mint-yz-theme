@@ -29,12 +29,25 @@ There are a few `render-assets.sh` scripts scattered around the `src/Mint-Y` dir
 ### Instructions
 If you want to create your own theme, here is what to do.
 
-  1.  Install the required software and packages listed above and then `git clone` this repository.
-  2. Edit the colors in the `constants.py` file. You can add new colors if you want to. You don’t have to place them in any particular order. I placed my colors in ascending order of hue, but it could have been sorted alphabetically or otherwise. Take a look at this `constants.py` file: colors1 is the base color, colors2 is for the dark variants, and colors3 and colors4 are just for those tiny `titlebutton-close-hover` and `titlebutton-close-active`, respectively. I recommend setting colors2 15% darker, unless this color is already dark. The colors3 should be 20% lighter. And colors4 should be 30% darker. I made a simple trick to quickly get those values and copy them into the `constants.py` file. Open the `Mint-Y-Colors/Mint-Y-Variations-NEW.svg` file into Inkscape. Check the different layers. There are layers named "colors2", "colors3" and "colors4". By making them visible only one layer at a time, i used a color picker to quickly "pick and paste" all the 11 colors for all those colors 1, 2, 3 and 4. But feel free to get those values any way you want.
-  3. On the first time, you must run `~/mint-yz-theme-X.X$ ./update-variations.py All` from your terminal, in the mint-yz-theme-X.X directory. Later, you can replace `All` with one specific color name like `Blue` for quick testing.
-  4. Next, run `~/mint-yz-theme-X.X$ ./generate-themes.py` from your terminal, in the mint-yz-theme-X.X directory.
-  5. And finally, copy all the files from `~/mint-yz-theme-X.X/usr/share/themes/` into `usr/share/themes/` as root.
-  6. Change your theme in the system preferences.
+1. Install the required software and packages listed above.
+1. Git clone this repository, using your terminal: `git clone https://github.com/SebastJava/mint-yz-theme.git`. You may need to install the git package first.
+1. Edit the colors in the `constants.py` file. You can add new colors if you want to. You don’t have to place them in any particular order. I placed my colors in ascending order of hue, but it could have been sorted alphabetically or otherwise. Take a look at this `constants.py` file:
+  * colors1 is the base color
+  * colors2 is for the dark variants
+  * colors3 and colors4 are just for those tiny `titlebutton-close-hover` and `titlebutton-close-active`, respectively.
+  * Example, add your new color in constants.py: <br>
+y_hex_colors1["MyNewColorName"] = "#40BF40" <br>
+y_hex_colors2["MyNewColorName"] = "#36A336" <br>
+y_hex_colors3["MyNewColorName"] = "#66CC66" <br>
+y_hex_colors4["MyNewColorName"] = "#2D862D" <br>
+(colors2 = 15% darker, colors3 = 20% lighter, colors4 = 30% darker)
+
+  * I recommend setting colors2 15% darker, unless this color is already dark. The colors3 should be 20% lighter. And colors4 should be 30% darker.
+  * OPTIONAL: I made a simple trick to quickly get those values and copy them into the `constants.py` file. Open the `Mint-Y-Colors/Mint-Y-Variations-NEW.svg` file into Inkscape. Check the different layers. There are layers named "colors2", "colors3" and "colors4". By making them visible only one layer at a time, i used a color picker to quickly "pick and paste" all the 11 colors for all those colors 1, 2, 3 and 4. But feel free to get those values any way you want.
+1. On the first time, you must run `~/mint-yz-theme-X.X$ ./update-variations.py All` from your terminal, in the mint-yz-theme-X.X directory. Later, you can replace `All` with one specific color name like `Blue` for quick testing.
+1. Next, run `~/mint-yz-theme-X.X$ ./generate-themes.py` from your terminal, in the mint-yz-theme-X.X directory.
+1. And finally, copy all the files from `~/mint-yz-theme-X.X/usr/share/themes/` into `usr/share/themes/` as root.
+1. Change your theme in the system preferences.
 
 ### Help
 If you are having trouble, start by searching the web for answers. If you can’t find any good answer, you can create an [issue](https://github.com/SebastJava/mint-yz-theme/issues) here on my repository. But if you need an answer quickly, you’d be better off with the [Linux Mint Forums](https://forums.linuxmint.com/).
