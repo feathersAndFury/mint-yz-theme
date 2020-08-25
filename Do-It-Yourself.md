@@ -36,10 +36,10 @@ If you want to create your own theme, here is what to do.
    1. `colors2` is for the dark variants
    1. `colors3` and `colors4` are just for those tiny `titlebutton-close-hover` and `titlebutton-close-active`, respectively.
    1. Example, add your new color in constants.py: <br>
-`y_hex_`colors1`["MyNewColorName"] = "#40BF40"` <br>
-`y_hex_`colors2`["MyNewColorName"] = "#36A336"` <br>
-`y_hex_`colors3`["MyNewColorName"] = "#66CC66"` <br>
-`y_hex_`colors4`["MyNewColorName"] = "#2D862D"` <br>
+`y_hex_colors1["MyNewColorName"] = "#40BF40"` <br>
+`y_hex_colors2["MyNewColorName"] = "#36A336"` <br>
+`y_hex_colors3["MyNewColorName"] = "#66CC66"` <br>
+`y_hex_colors4["MyNewColorName"] = "#2D862D"` <br>
 (`colors2` = 15% darker, `colors3` = 20% lighter, `colors4` = 30% darker)
 
    1. I recommend setting `colors2` 15% darker, unless this color is already dark. The `colors3` should be 20% lighter. And `colors4` should be 30% darker.
