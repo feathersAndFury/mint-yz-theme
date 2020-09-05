@@ -1,8 +1,18 @@
+mint-yz-theme (2.0) UNRELEASED; urgency=medium
+
+  * Dark accent colors are not much darker, 10% darker or customized.
+  * Color updates. Mint, MintSparkling, BlueDeep.
+  * Buttons and entries rounded corners are a bit more rounded, 3px->5px.
+  * Focused buttons background=selected_bg_color, to see what Enter key does.
+  * Etcetera.
+
+ -- Sébastien Bouchard <sebastjava@hotmail.ca>  Fri, 04 Sep 2020 19:56:00 -0400 
+
 mint-yz-theme (1.6) UNRELEASED; urgency=medium
 
   * PurpleDeep hue 275->270 and Purple saturation 50->67.
 
- -- Sébastien Bouchard <sebastjava@hotmail.ca>  Sat, 22 Aug 2020 12:51:55 -0400  
+ -- Sébastien Bouchard <sebastjava@hotmail.ca>  Sat, 22 Aug 2020 12:51:55 -0400
 
 mint-yz-theme (1.5) UNRELEASED; urgency=medium
 
