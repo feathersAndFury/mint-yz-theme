@@ -1,3 +1,9 @@
+mint-yz-theme (2.0.1) UNRELEASED; urgency=medium
+
+  * FIXED button focus having same color as selected.
+
+ -- Sébastien Bouchard <sebastjava@hotmail.ca>  Sun, 06 Sep 2020 16:34:00 -0400 
+
 mint-yz-theme (2.0) UNRELEASED; urgency=medium
 
   * Dark accent colors are not much darker, 10% darker or customized.

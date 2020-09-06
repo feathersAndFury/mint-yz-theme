@@ -26,7 +26,7 @@ $darker_asset_suffix: if($darker=='true', '-dark', $asset_suffix);
   outline-style: dashed;
   outline-offset: -3px;
   outline-width: 1px;
-  -gtk-outline-radius: 2px;
+  -gtk-outline-radius: 4px;
 }
 
 
@@ -382,7 +382,7 @@ button {
   //Webkitgtk workaround end
 
   //Mint-Yz added start
-  &:focus { background-color: $selected_bg_color; color: $selected_fg_color; }
+  &:focus { border: 1px solid $selected_bg_color; }
   //Mint-Yz added end
 
   @at-root %button_basic_flat,

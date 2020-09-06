@@ -12,7 +12,7 @@
   outline-style: dashed;
   outline-offset: -3px;
   outline-width: 1px;
-  -gtk-outline-radius: 2px; }
+  -gtk-outline-radius: 4px; }
 
 .background {
   color: #DADADA;
@@ -286,8 +286,7 @@ button {
   button:active:hover, button:checked {
     color: #ffffff; }
   button:focus {
-    background-color: #8fa876;
-    color: #ffffff; }
+    border: 1px solid #8fa876; }
   button.sidebar-button, button.flat:disabled {
     border-color: transparent;
     background-color: transparent;
