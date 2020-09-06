@@ -286,7 +286,8 @@ button {
   button:active:hover, button:checked {
     color: #ffffff; }
   button:focus {
-    border: 1px solid #8fa876; }
+    outline-color: #8fa876;
+    outline-style: solid; }
   button.sidebar-button, button.flat:disabled {
     border-color: transparent;
     background-color: transparent;

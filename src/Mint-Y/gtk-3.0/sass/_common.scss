@@ -382,7 +382,7 @@ button {
   //Webkitgtk workaround end
 
   //Mint-Yz added start
-  &:focus { border: 1px solid $selected_bg_color; }
+  &:focus { outline-color: $selected_bg_color; outline-style: solid; }
   //Mint-Yz added end
 
   @at-root %button_basic_flat,
