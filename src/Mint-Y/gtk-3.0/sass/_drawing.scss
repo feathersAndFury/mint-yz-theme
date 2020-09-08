@@ -133,7 +133,7 @@
   // normal button
   //
     color: $fg_color;
-    outline-color: transparentize($fg_color, 0.7);
+    outline-color: $selected_bg_color;
     border-color: $button_border;
     background-color: $button_bg;
   }
@@ -143,7 +143,7 @@
   // hovered button
   //
     color: $fg_color;
-    outline-color: transparentize($fg_color, 0.7);
+    outline-color: $selected_bg_color;
     border-color: $button_border;
     background-color: lighten($button_bg, 5%);
   }
@@ -188,7 +188,7 @@
   // normal header-bar button
   //
     color: $header_fg;
-    outline-color: transparentize($header_fg, 0.7);
+    outline-color: $selected_bg_color;
     outline-offset: -3px;
     background-color: transparentize($header_bg, 1);
     border-color: transparentize($header_bg, 1);
@@ -199,7 +199,7 @@
   // hovered header-bar button
   //
     color: $header_fg;
-    outline-color: transparentize($header_fg, 0.7);
+    outline-color: $selected_bg_color;
     border-color: $header_button_border;
     background-color: $header_button_bg;
   }
@@ -239,17 +239,17 @@
   // normal osd button
   //
     color: $osd_fg_color;
-    outline-color: transparentize($osd_fg_color, 0.7);
+    outline-color: $selected_bg_color;
     border-color: $osd_button_border;
     background-color: $osd_button_bg;
   }
 
   @else if $t==osd-hover {
   //
-  // active osd button
+  // hovered osd button
   //
     color: $osd_fg_color;
-    outline-color: transparentize($osd_fg_color, 0.7);
+    outline-color: $selected_bg_color;
     border-color: $osd_button_border;
     background-color: opacify(lighten($osd_button_bg, 7%), 0.1);
   }
