@@ -133,7 +133,7 @@
   // normal button
   //
     color: $fg_color;
-    outline-color: $selected_bg_color;
+    outline-color: $selected_bg_color; //Mint-Yz ~
     border-color: $button_border;
     background-color: $button_bg;
   }
@@ -143,7 +143,7 @@
   // hovered button
   //
     color: $fg_color;
-    outline-color: $selected_bg_color;
+    outline-color: $selected_bg_color; //Mint-Yz ~
     border-color: $button_border;
     background-color: lighten($button_bg, 5%);
   }
@@ -153,8 +153,7 @@
   // pushed button
   //
     color: $selected_fg_color;
-    outline-color: transparentize($selected_fg_color, 0.7);
-
+    outline-color: $selected_fg_color; //Mint-Yz ~
     border-color: $button_border;
     background-color: $selected_bg_color;
   }
@@ -188,7 +187,7 @@
   // normal header-bar button
   //
     color: $header_fg;
-    outline-color: $selected_bg_color;
+    outline-color: $selected_bg_color; //Mint-Yz ~
     outline-offset: -3px;
     background-color: transparentize($header_bg, 1);
     border-color: transparentize($header_bg, 1);
@@ -199,7 +198,7 @@
   // hovered header-bar button
   //
     color: $header_fg;
-    outline-color: $selected_bg_color;
+    outline-color: $selected_bg_color; //Mint-Yz ~
     border-color: $header_button_border;
     background-color: $header_button_bg;
   }
@@ -209,7 +208,7 @@
   // pushed header-bar button
   //
     color: $selected_fg_color;
-    outline-color: transparentize($selected_fg_color, 0.7);
+    outline-color: $selected_fg_color; //Mint-Yz ~
     border-color: if($darker=='false' and $variant=='light', $header_button_border, transparent);
     background-color: $selected_bg_color;
   }
@@ -239,7 +238,7 @@
   // normal osd button
   //
     color: $osd_fg_color;
-    outline-color: $selected_bg_color;
+    outline-color: $selected_bg_color; //Mint-Yz ~
     border-color: $osd_button_border;
     background-color: $osd_button_bg;
   }
@@ -249,7 +248,7 @@
   // hovered osd button
   //
     color: $osd_fg_color;
-    outline-color: $selected_bg_color;
+    outline-color: $selected_bg_color; //Mint-Yz ~
     border-color: $osd_button_border;
     background-color: opacify(lighten($osd_button_bg, 7%), 0.1);
   }
@@ -259,7 +258,7 @@
   // active osd button
   //
     color: $selected_fg_color;
-    outline-color: transparentize($selected_fg_color, 0.7);
+    outline-color: $selected_fg_color; //Mint-Yz ~
     border-color: $osd_button_border;
     background-color: $selected_bg_color;
   }
