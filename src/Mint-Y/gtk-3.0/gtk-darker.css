@@ -248,6 +248,7 @@ button {
   border: 1px solid;
   border-radius: 5px;
   padding: 5px 8px;
+  outline-color: #92b372;
   outline-style: solid;
   color: #303030;
   outline-color: #92b372;
@@ -285,8 +286,6 @@ button {
     color: #303030; }
   button:active:hover, button:checked {
     color: #ffffff; }
-  button:focus {
-    outline-color: #92b372; }
   button.sidebar-button, button.flat:disabled {
     border-color: transparent;
     background-color: transparent;

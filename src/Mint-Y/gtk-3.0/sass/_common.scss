@@ -340,6 +340,7 @@ button {
   border: 1px solid;
   border-radius: 5px;
   padding: 5px 8px;
+  outline-color: $selected_bg_color; //Mint-Yz +
   outline-style: solid; //Mint-Yz +
 
   @include button(normal);
@@ -381,8 +382,6 @@ button {
   &:active { color: $fg_color; }
   &:active:hover, &:checked { color: $selected_fg_color; }
   //Webkitgtk workaround end
-
-  &:focus { outline-color: $selected_bg_color; } //Mint-Yz +
 
   @at-root %button_basic_flat,
   &.flat:disabled { @include button(undecorated); }
