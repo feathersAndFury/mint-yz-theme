@@ -402,7 +402,7 @@ button {
   button.suggested-action {
     background-clip: border-box;
     color: #ffffff;
-    outline-color: rgba(255, 255, 255, 0.3);
+    outline-color: #ffffff;
     background-color: #0AC266;
     border-color: #0AC266; }
     button.suggested-action.flat {
@@ -414,13 +414,13 @@ button {
     button.suggested-action:hover {
       background-clip: border-box;
       color: #ffffff;
-      outline-color: rgba(255, 255, 255, 0.3);
+      outline-color: #ffffff;
       background-color: #0df380;
       border-color: #0df380; }
     button.suggested-action:active, button.suggested-action:checked {
       background-clip: border-box;
       color: #ffffff;
-      outline-color: rgba(255, 255, 255, 0.3);
+      outline-color: #ffffff;
       background-color: #08924d;
       border-color: #08924d; }
     button.suggested-action.flat:disabled {
@@ -437,7 +437,7 @@ button {
   button.destructive-action {
     background-clip: border-box;
     color: #ffffff;
-    outline-color: rgba(255, 255, 255, 0.3);
+    outline-color: #ffffff;
     background-color: #DF2131;
     border-color: #DF2131; }
     button.destructive-action.flat {
@@ -449,13 +449,13 @@ button {
     button.destructive-action:hover {
       background-clip: border-box;
       color: #ffffff;
-      outline-color: rgba(255, 255, 255, 0.3);
+      outline-color: #ffffff;
       background-color: #e54e5a;
       border-color: #e54e5a; }
     button.destructive-action:active, button.destructive-action:checked {
       background-clip: border-box;
       color: #ffffff;
-      outline-color: rgba(255, 255, 255, 0.3);
+      outline-color: #ffffff;
       background-color: #b31a27;
       border-color: #b31a27; }
     button.destructive-action.flat:disabled {
@@ -1151,7 +1151,7 @@ headerbar .linked:not(.vertical).path-bar > button {
 .primary-toolbar button.suggested-action, headerbar button.suggested-action {
   background-clip: border-box;
   color: #ffffff;
-  outline-color: rgba(255, 255, 255, 0.3);
+  outline-color: #ffffff;
   background-color: #0AC266;
   border-color: #0AC266; }
   
@@ -1165,7 +1165,7 @@ headerbar .linked:not(.vertical).path-bar > button {
   .primary-toolbar button.suggested-action:hover, headerbar button.suggested-action:hover {
     background-clip: border-box;
     color: #ffffff;
-    outline-color: rgba(255, 255, 255, 0.3);
+    outline-color: #ffffff;
     background-color: #0df380;
     border-color: #0df380; }
   
@@ -1173,7 +1173,7 @@ headerbar .linked:not(.vertical).path-bar > button {
   .primary-toolbar button.suggested-action:checked, headerbar button.suggested-action:checked {
     background-clip: border-box;
     color: #ffffff;
-    outline-color: rgba(255, 255, 255, 0.3);
+    outline-color: #ffffff;
     background-color: #08924d;
     border-color: #08924d; }
   
@@ -1193,7 +1193,7 @@ headerbar .linked:not(.vertical).path-bar > button {
 .primary-toolbar button.destructive-action, headerbar button.destructive-action {
   background-clip: border-box;
   color: #ffffff;
-  outline-color: rgba(255, 255, 255, 0.3);
+  outline-color: #ffffff;
   background-color: #DF2131;
   border-color: #DF2131; }
   
@@ -1207,7 +1207,7 @@ headerbar .linked:not(.vertical).path-bar > button {
   .primary-toolbar button.destructive-action:hover, headerbar button.destructive-action:hover {
     background-clip: border-box;
     color: #ffffff;
-    outline-color: rgba(255, 255, 255, 0.3);
+    outline-color: #ffffff;
     background-color: #e54e5a;
     border-color: #e54e5a; }
   
@@ -1215,7 +1215,7 @@ headerbar .linked:not(.vertical).path-bar > button {
   .primary-toolbar button.destructive-action:checked, headerbar button.destructive-action:checked {
     background-clip: border-box;
     color: #ffffff;
-    outline-color: rgba(255, 255, 255, 0.3);
+    outline-color: #ffffff;
     background-color: #b31a27;
     border-color: #b31a27; }
   
@@ -3912,38 +3912,38 @@ filechooser placessidebar.sidebar list scrollbar, .nemo-window .sidebar scrollba
 #shutdown_button.button {
   background-clip: border-box;
   color: #ffffff;
-  outline-color: rgba(255, 255, 255, 0.3);
+  outline-color: #ffffff;
   background-color: #DF2131;
   border-color: #DF2131; }
   #shutdown_button.button:hover {
     background-clip: border-box;
     color: #ffffff;
-    outline-color: rgba(255, 255, 255, 0.3);
+    outline-color: #ffffff;
     background-color: #e54e5a;
     border-color: #e54e5a; }
   #shutdown_button.button:active, #shutdown_button.button:checked {
     background-clip: border-box;
     color: #ffffff;
-    outline-color: rgba(255, 255, 255, 0.3);
+    outline-color: #ffffff;
     background-color: #b31a27;
     border-color: #b31a27; }
 
 #restart_button.button {
   background-clip: border-box;
   color: #ffffff;
-  outline-color: rgba(255, 255, 255, 0.3);
+  outline-color: #ffffff;
   background-color: #0AC266;
   border-color: #0AC266; }
   #restart_button.button:hover {
     background-clip: border-box;
     color: #ffffff;
-    outline-color: rgba(255, 255, 255, 0.3);
+    outline-color: #ffffff;
     background-color: #0df380;
     border-color: #0df380; }
   #restart_button.button:active, #restart_button.button:checked {
     background-clip: border-box;
     color: #ffffff;
-    outline-color: rgba(255, 255, 255, 0.3);
+    outline-color: #ffffff;
     background-color: #08924d;
     border-color: #08924d; }
 
