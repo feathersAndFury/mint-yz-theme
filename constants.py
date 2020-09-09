@@ -18,15 +18,15 @@ y_hex_colors2 = {}
 y_hex_colors3 = {}
 y_hex_colors4 = {}
 
-y_hex_colors1["Mint"] = "#18AA60"
-y_hex_colors2["Mint"] = "#169957"
-y_hex_colors3["Mint"] = "#46BB80"
-y_hex_colors4["Mint"] = "#117743"
+y_hex_colors1["Mint"] = "#0AC266"
+y_hex_colors2["Mint"] = "#0AC266"
+y_hex_colors3["Mint"] = "#3BCE85"
+y_hex_colors4["Mint"] = "#078848"
 
-y_hex_colors1["MintSparkling"] = "#0AC266"
-y_hex_colors2["MintSparkling"] = "#09AF5C"
-y_hex_colors3["MintSparkling"] = "#3BCE85"
-y_hex_colors4["MintSparkling"] = "#078848"
+y_hex_colors1["MintContrast"] = "#18AA60"
+y_hex_colors2["MintContrast"] = "#18AA60"
+y_hex_colors3["MintContrast"] = "#46BB80"
+y_hex_colors4["MintContrast"] = "#117743"
 
 y_hex_colors1["Grey"] = "#767676"
 y_hex_colors2["Grey"] = "#767676"
