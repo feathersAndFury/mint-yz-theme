@@ -604,8 +604,8 @@
            id="tspan951">Mint</tspan></text>
     </g>
     <g
-       id="g2676"
-       transform="translate(820,91.799981)">
+       id="g1292"
+       transform="translate(820,91.799988)">
       <g
          inkscape:label="Background"
          id="layer5-6">
@@ -999,7 +999,7 @@
              height="180"
              width="180"
              id="rect822-5"
-             style="opacity:1;vector-effect:none;fill:#e23770;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+             style="opacity:1;vector-effect:none;fill:#e8316e;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
              id="text912-6"
              y="561.59198"
@@ -1015,12 +1015,12 @@
                style="line-height:18px;fill:#ffffff;fill-opacity:1"
                y="586.59198"
                x="239.56799"
-               sodipodi:role="line">HSL 340,75,55 </tspan><tspan
+               sodipodi:role="line">HSL 340,80,55 </tspan><tspan
                id="tspan910-1"
                style="line-height:18px;fill:#ffffff;fill-opacity:1"
                y="611.59198"
                x="239.56799"
-               sodipodi:role="line">ColorContrast 4.2</tspan></text>
+               sodipodi:role="line">ColorContrast 4.1</tspan></text>
         </g>
         <g
            id="g977-1"
