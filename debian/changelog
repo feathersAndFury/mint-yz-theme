@@ -1,3 +1,11 @@
+mint-yz-theme (2.1) UNRELEASED; urgency=medium
+
+  * ALL focused buttons get a colored outline.
+  * OR a white outline for the colored buttons.
+  * Subtle color updates. Mint, MintContrast, Red, Pink.
+
+ -- Sébastien Bouchard <sebastjava@hotmail.ca>  Thu, 10 Sep 2020 16:36:00 -0400 
+
 mint-yz-theme (2.0.2) UNRELEASED; urgency=medium
 
   * Button focus is now indicated by a solid colored outline.
