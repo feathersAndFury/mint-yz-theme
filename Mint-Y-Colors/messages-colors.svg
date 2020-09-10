@@ -8,7 +8,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="messages-colors.svg"
-   inkscape:version="1.0 (1.0+r73+1)"
+   inkscape:version="1.0.1 (1.0.1+r73)"
    id="svg8"
    version="1.1"
    viewBox="0 0 1200 900"
@@ -310,7 +310,7 @@
          x="810"
          y="462.02655"
          id="tspan952"
-         style="line-height:50px">$error_color: #DF2131;</tspan><tspan
+         style="line-height:50px">$error_color: #E61A2C;</tspan><tspan
          sodipodi:role="line"
          x="810"
          y="512.02655"
@@ -325,7 +325,7 @@
          x="810"
          y="612.02655"
          id="tspan958"
-         style="line-height:50px">$destructive_color: #DF2131;</tspan><tspan
+         style="line-height:50px">$destructive_color: #E61A2C;</tspan><tspan
          sodipodi:role="line"
          x="810"
          y="662.02655"
@@ -376,7 +376,7 @@
        height="40"
        width="150"
        id="rect970"
-       style="fill:#df2131;fill-opacity:1;stroke-width:0.82903504" />
+       style="fill:#e61a2c;fill-opacity:1;stroke-width:0.82903504" />
     <rect
        inkscape:tile-y0="678"
        inkscape:tile-x0="50"
@@ -403,7 +403,7 @@
        height="40"
        width="150"
        id="rect976"
-       style="fill:#df2131;fill-opacity:1;stroke-width:0.82903504" />
+       style="fill:#e61a2c;fill-opacity:1;stroke-width:0.82903504" />
     <rect
        inkscape:tile-y0="678"
        inkscape:tile-x0="50"

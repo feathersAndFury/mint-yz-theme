@@ -27,7 +27,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="267.75116"
+     inkscape:cx="659.48288"
      inkscape:cy="359.74609"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -466,7 +466,7 @@
          height="180"
          width="180"
          id="rect822"
-         style="opacity:1;vector-effect:none;fill:#e23770;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="opacity:1;vector-effect:none;fill:#e8316e;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
          id="text912"
          y="561.59198"
@@ -482,12 +482,12 @@
            style="line-height:18px;fill:#ffffff;fill-opacity:1"
            y="586.59198"
            x="239.56799"
-           sodipodi:role="line">HSL 340,75,55 </tspan><tspan
+           sodipodi:role="line">HSL 340,80,55 </tspan><tspan
            id="tspan910"
            style="line-height:18px;fill:#ffffff;fill-opacity:1"
            y="611.59198"
            x="239.56799"
-           sodipodi:role="line">ColorContrast 4.2</tspan></text>
+           sodipodi:role="line">ColorContrast 4.1</tspan></text>
     </g>
     <g
        id="g977"
