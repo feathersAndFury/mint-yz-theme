@@ -12,9 +12,9 @@
    viewBox="0 0 772 772"
    id="svg2"
    version="1.1"
-   inkscape:version="1.0 (1.0+r73+1)"
+   inkscape:version="1.0.1 (1.0.1+r73)"
    sodipodi:docname="0-colors-branch-icon-sqr.svg"
-   inkscape:export-filename="/home/sebastien/mint-yz-theme-1.6/Mint-Y-Colors/0-colors-branch-icon-sqr.png"
+   inkscape:export-filename="/home/sebastien/mint-yz-theme-2.1/Mint-Y-Colors/0-colors-branch-icon-sqr.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
@@ -112,7 +112,7 @@
        cy="352"
        r="176" />
     <circle
-       style="fill:#f46a25;fill-opacity:1;stroke:#ffffff;stroke-width:32;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ff6600;fill-opacity:1;stroke:#ffffff;stroke-width:32;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="circle861"
        cx="559"
        cy="352"
