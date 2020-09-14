@@ -14,7 +14,7 @@
    id="svg8"
    inkscape:version="1.0.1 (1.0.1+r73)"
    sodipodi:docname="Mint-Y-Variations-NEW.svg"
-   inkscape:export-filename="/home/sebastien/mint-yz-theme-2.0.2/Mint-Y-Colors/Mint-Y-Variations-NEW.png"
+   inkscape:export-filename="/home/sebastien/mint-yz-theme-2.1/Mint-Y-Colors/Mint-Y-Variations-NEW.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
@@ -27,8 +27,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="659.48288"
-     inkscape:cy="359.74609"
+     inkscape:cx="353.54714"
+     inkscape:cy="420"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -434,7 +434,7 @@
          height="180"
          width="180"
          id="rect812"
-         style="vector-effect:none;fill:#f46a25;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="vector-effect:none;fill:#ff7300;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
          id="text904"
          y="556.992"
@@ -450,12 +450,12 @@
            style="line-height:18px;fill:#ffffff;fill-opacity:1"
            y="581.992"
            x="439.56799"
-           sodipodi:role="line">HSL 20,90,55</tspan><tspan
+           sodipodi:role="line">HSL 27,100,50</tspan><tspan
            id="tspan902"
            style="line-height:18px;fill:#ffffff;fill-opacity:1"
            y="606.992"
            x="439.56799"
-           sodipodi:role="line">ColorContrast 3.0</tspan></text>
+           sodipodi:role="line">ColorContrast 2.7</tspan></text>
     </g>
     <g
        id="g970"
@@ -466,7 +466,7 @@
          height="180"
          width="180"
          id="rect822"
-         style="opacity:1;vector-effect:none;fill:#e8316e;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="opacity:1;vector-effect:none;fill:#f42569;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
          id="text912"
          y="561.59198"
@@ -482,12 +482,12 @@
            style="line-height:18px;fill:#ffffff;fill-opacity:1"
            y="586.59198"
            x="239.56799"
-           sodipodi:role="line">HSL 340,80,55 </tspan><tspan
+           sodipodi:role="line">HSL 340,90,55 </tspan><tspan
            id="tspan910"
            style="line-height:18px;fill:#ffffff;fill-opacity:1"
            y="611.59198"
            x="239.56799"
-           sodipodi:role="line">ColorContrast 4.1</tspan></text>
+           sodipodi:role="line">ColorContrast 4.0</tspan></text>
     </g>
     <g
        id="g977"
@@ -530,7 +530,7 @@
          height="180"
          width="180"
          id="rect824"
-         style="opacity:1;vector-effect:none;fill:#e61a2c;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="opacity:1;vector-effect:none;fill:#f20e22;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
          id="text928"
          y="561.59198"
@@ -546,12 +546,12 @@
            style="line-height:18px;fill:#ffffff;fill-opacity:1"
            y="586.59198"
            x="639.56799"
-           sodipodi:role="line">HSL 355,80,50 </tspan><tspan
+           sodipodi:role="line">HSL 355,90,50 </tspan><tspan
            style="line-height:18px;fill:#ffffff;fill-opacity:1"
            y="611.59198"
            x="639.56799"
            sodipodi:role="line"
-           id="tspan923">ColorContrast 4.6</tspan></text>
+           id="tspan923">ColorContrast 4.3</tspan></text>
     </g>
     <g
        id="g1099"
