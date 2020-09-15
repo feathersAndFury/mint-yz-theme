@@ -370,7 +370,7 @@
        style="fill:none;fill-opacity:1;stroke:#808080;stroke-width:1.9366;stroke-opacity:1" />
     <rect
        y="211.79999"
-       x="420.00003"
+       x="420"
        height="180"
        width="180"
        id="rect133"
@@ -404,7 +404,7 @@
     </g>
     <g
        id="g956"
-       transform="translate(1e-6,-50)">
+       transform="translate(0,-50)">
       <rect
          y="261.79999"
          x="620"
@@ -431,14 +431,14 @@
     </g>
     <g
        id="g990"
-       transform="translate(-200,-45.39999)">
+       transform="translate(-200,-45.399991)">
       <rect
          y="457.19998"
          x="420"
          height="180"
          width="180"
          id="rect812"
-         style="vector-effect:none;fill:#ff6500;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="vector-effect:none;fill:#ff741a;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
          id="text904"
          y="556.992"
@@ -454,7 +454,7 @@
            style="line-height:18px;fill:#ffffff;fill-opacity:1"
            y="581.992"
            x="439.56799"
-           sodipodi:role="line">HSL 24,100,50</tspan></text>
+           sodipodi:role="line">HSL 24,100,55</tspan></text>
     </g>
     <g
        id="g970"
@@ -485,7 +485,7 @@
     </g>
     <g
        id="g977"
-       transform="translate(1e-6,150)">
+       transform="translate(0,150)">
       <rect
          style="opacity:1;vector-effect:none;fill:#ab2ad5;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect820"
@@ -620,7 +620,7 @@
     </g>
     <g
        id="g983"
-       transform="translate(1e-6,-50)">
+       transform="translate(0,-50)">
       <rect
          style="vector-effect:none;fill:#304fe8;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect828"
