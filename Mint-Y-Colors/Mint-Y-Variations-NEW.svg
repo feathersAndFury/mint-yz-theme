@@ -27,7 +27,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="394.52951"
+     inkscape:cx="277.02951"
      inkscape:cy="420"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -87,7 +87,8 @@
      inkscape:label="colors1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-91.799988)">
+     transform="translate(0,-91.799988)"
+     sodipodi:insensitive="true">
     <rect
        y="211.79999"
        x="420"
