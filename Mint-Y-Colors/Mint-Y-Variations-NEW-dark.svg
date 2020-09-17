@@ -369,7 +369,7 @@
        id="rect115"
        style="fill:none;fill-opacity:1;stroke:#808080;stroke-width:1.9366;stroke-opacity:1" />
     <rect
-       y="211.79999"
+       y="211.8"
        x="420"
        height="180"
        width="180"
@@ -404,7 +404,7 @@
     </g>
     <g
        id="g956"
-       transform="translate(0,-50)">
+       transform="translate(3e-6,-49.999998)">
       <rect
          y="261.79999"
          x="620"
@@ -431,7 +431,7 @@
     </g>
     <g
        id="g990"
-       transform="translate(-200,-45.399991)">
+       transform="translate(-200,-45.399988)">
       <rect
          y="457.19998"
          x="420"
@@ -485,9 +485,9 @@
     </g>
     <g
        id="g977"
-       transform="translate(0,150)">
+       transform="translate(3e-6,150)">
       <rect
-         style="opacity:1;vector-effect:none;fill:#ab2ad5;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;vector-effect:none;fill:#a528cd;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect820"
          width="180"
          height="180"
@@ -508,11 +508,11 @@
            x="439.56799"
            y="586.59198"
            style="line-height:18px;fill:#ffffff;fill-opacity:1"
-           id="tspan918">HSL 285,67,50</tspan></text>
+           id="tspan918">HSL 285,67,48</tspan></text>
     </g>
     <g
        id="g984"
-       transform="translate(-600,-50)">
+       transform="translate(-600,-49.999998)">
       <rect
          y="461.79999"
          x="620"
@@ -620,9 +620,9 @@
     </g>
     <g
        id="g983"
-       transform="translate(0,-50)">
+       transform="translate(3e-6,-49.999998)">
       <rect
-         style="vector-effect:none;fill:#304fe8;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="vector-effect:none;fill:#3653e2;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect828"
          width="180"
          height="180"
@@ -645,7 +645,7 @@
            x="39.568001"
            y="786.59198"
            style="line-height:18px;fill:#ffffff;fill-opacity:1"
-           id="tspan974">HSL 230,80,55</tspan></text>
+           id="tspan974">HSL 230,75,55</tspan></text>
     </g>
     <g
        transform="translate(-200,150)"

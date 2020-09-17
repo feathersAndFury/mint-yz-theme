@@ -27,7 +27,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="277.02951"
+     inkscape:cx="397.34233"
      inkscape:cy="420"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -87,8 +87,7 @@
      inkscape:label="colors1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-91.799988)"
-     sodipodi:insensitive="true">
+     transform="translate(0,-91.799988)">
     <rect
        y="211.79999"
        x="420"
@@ -474,7 +473,7 @@
        id="g977"
        transform="translate(0,150)">
       <rect
-         style="opacity:1;vector-effect:none;fill:#ab2ad5;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;vector-effect:none;fill:#a528cd;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect820"
          width="180"
          height="180"
@@ -495,7 +494,7 @@
            x="439.56799"
            y="586.59198"
            style="line-height:18px;fill:#ffffff;fill-opacity:1"
-           id="tspan918">HSL 285,67,50</tspan></text>
+           id="tspan918">HSL 285,67,48</tspan></text>
     </g>
     <g
        id="g984"
@@ -609,7 +608,7 @@
        id="g983"
        transform="translate(0,-50)">
       <rect
-         style="vector-effect:none;fill:#304fe8;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="vector-effect:none;fill:#3653e2;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect828"
          width="180"
          height="180"
@@ -632,7 +631,7 @@
            x="39.568001"
            y="786.59198"
            style="line-height:18px;fill:#ffffff;fill-opacity:1"
-           id="tspan974">HSL 230,80,55</tspan></text>
+           id="tspan974">HSL 230,75,55</tspan></text>
     </g>
     <g
        transform="translate(-200,150)"
