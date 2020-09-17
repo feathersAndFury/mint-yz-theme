@@ -9,7 +9,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:export-ydpi="96"
    inkscape:export-xdpi="96"
-   inkscape:export-filename="/home/sebastien/mint-yz-theme-2.1/Mint-Y-Colors/compare/Mint-Y-Variations-compare-100.png"
+   inkscape:export-filename="/home/sebastien/mint-yz-theme/Mint-Y-Colors/compare/Mint-Y-Variations-compare-100.png"
    sodipodi:docname="Mint-Y-Variations-compare-100.svg"
    inkscape:version="1.0.1 (1.0.1+r73)"
    id="svg8"
@@ -709,7 +709,7 @@
            id="tspan1541">HSL 150</tspan></text>
     </g>
     <g
-       id="g2281"
+       id="g1242"
        transform="translate(820,91.799988)">
       <g
          inkscape:label="Background"
@@ -719,12 +719,12 @@
            x="0"
            height="920"
            width="820"
-           id="rect122-6"
+           id="rect122-0"
            style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-opacity:1" />
       </g>
       <g
          inkscape:label="colors1"
-         id="layer1-2"
+         id="layer1-4"
          transform="translate(0,-91.799988)">
         <rect
            y="211.79999"
@@ -738,14 +738,14 @@
            x="0"
            height="100"
            width="820"
-           id="rect903-9"
+           id="rect903-8"
            style="opacity:1;vector-effect:none;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
            x="19.784"
            y="136.74799"
-           id="text947-1"><tspan
+           id="text947-7"><tspan
              sodipodi:role="line"
              x="19.784"
              y="136.74799"
@@ -761,7 +761,7 @@
            x="0.9683001"
            height="918.06342"
            width="818.06342"
-           id="rect115-2"
+           id="rect115-1"
            style="fill:none;fill-opacity:1;stroke:#808080;stroke-width:1.9366;stroke-opacity:1" />
         <g
            id="g1134-7"
@@ -771,14 +771,14 @@
              x="0"
              height="200"
              width="820"
-             id="rect4820-0"
+             id="rect4820-2"
              style="opacity:1;vector-effect:none;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <g
-             id="g1061-9">
+             id="g1061-7">
             <g
                transform="matrix(0,-2.0997375,2.7603289,0,-19.817755,889.57776)"
                style="display:inline"
-               id="g1269-3">
+               id="g1269-2">
               <rect
                  transform="rotate(-90)"
                  rx="6.3846035e-17"
@@ -786,12 +786,12 @@
                  x="-297.00003"
                  height="23.812498"
                  width="17.991671"
-                 id="rect7-6"
+                 id="rect7-2"
                  style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.149984;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
               <rect
                  transform="rotate(-90)"
                  style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.149984;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                 id="rect9-0"
+                 id="rect9-6"
                  width="17.991671"
                  height="23.812498"
                  x="-270.54169"
@@ -804,12 +804,12 @@
                  x="-244.08336"
                  height="23.812498"
                  width="17.991671"
-                 id="rect11-6"
+                 id="rect11-1"
                  style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.149984;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
               <rect
                  transform="rotate(-90)"
                  style="fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.149984;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                 id="rect818-2"
+                 id="rect818-0"
                  width="17.991671"
                  height="23.812498"
                  x="-164.70834"
@@ -837,7 +837,7 @@
             <rect
                transform="scale(-1)"
                style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.386723;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               id="rect1035-8"
+               id="rect1035-5"
                width="56.966301"
                height="49.999996"
                x="-361.79779"
@@ -850,12 +850,12 @@
                x="-304.83148"
                height="49.999996"
                width="56.966301"
-               id="rect1037-7"
+               id="rect1037-9"
                style="display:inline;fill:#0d0d0d;fill-opacity:1;stroke:none;stroke-width:0.386723;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
             <rect
                transform="scale(-1)"
                style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.386723;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               id="rect1039-9"
+               id="rect1039-4"
                width="56.966301"
                height="49.999996"
                x="-133.93265"
@@ -868,7 +868,7 @@
                x="-247.8652"
                height="49.999996"
                width="56.966301"
-               id="rect1041-2"
+               id="rect1041-9"
                style="display:inline;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.386723;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
             <rect
                transform="scale(-1)"
@@ -885,73 +885,73 @@
                x="-76.966301"
                height="49.999996"
                width="56.966301"
-               id="rect1045-2"
+               id="rect1045-9"
                style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.386723;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
                transform="scale(-1)" />
             <g
-               id="g1028-3">
+               id="g1028-1">
               <g
                  style="font-weight:bold;font-size:13.3333px;line-height:17.7778px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0px;word-spacing:0px"
                  id="text135-7"
                  aria-label="100">
                 <path
-                   id="path983-5"
+                   id="path983-7"
                    style="font-size:13.3333px;text-align:center;text-anchor:middle"
                    d="m 41.249995,939.57299 v -4.61332 q -0.373332,0.26666 -0.853331,0.47999 -0.479999,0.2 -0.813331,0.32 l -0.533332,-1.35999 q 0.319999,-0.12 0.693331,-0.30667 0.373333,-0.18667 0.746665,-0.41333 0.373332,-0.22667 0.706665,-0.48 0.333332,-0.25333 0.573332,-0.52 h 1.119997 v 6.89332 h 1.639996 v 1.35999 h -5.013321 v -1.35999 z" />
                 <path
-                   id="path985-9"
+                   id="path985-1"
                    style="font-size:13.3333px;text-align:center;text-anchor:middle"
                    d="m 51.276636,936.78633 q 0,2.18666 -0.733331,3.25332 -0.733332,1.06667 -2.133328,1.06667 -1.399997,0 -2.133328,-1.06667 -0.733331,-1.06666 -0.733331,-3.25332 0,-2.16 0.746664,-3.22666 0.746665,-1.06667 2.119995,-1.06667 1.399996,0 2.133328,1.06667 0.733331,1.05333 0.733331,3.22666 z m -1.479996,0 q 0,-1.41333 -0.359999,-2.14666 -0.346666,-0.74667 -1.026664,-0.74667 -0.666665,0 -1.026664,0.74667 -0.359999,0.73333 -0.359999,2.14666 0,1.42666 0.359999,2.17333 0.359999,0.73333 1.026664,0.73333 0.679998,0 1.026664,-0.73333 0.359999,-0.74667 0.359999,-2.17333 z m -0.639998,-0.13334 q 0,0.36 -0.213333,0.62667 -0.2,0.25333 -0.519999,0.25333 -0.346666,0 -0.546665,-0.25333 -0.2,-0.26667 -0.2,-0.62667 0,-0.35999 0.2,-0.62666 0.199999,-0.26667 0.546665,-0.26667 0.319999,0 0.519999,0.26667 0.213333,0.26667 0.213333,0.62666 z" />
                 <path
-                   id="path987-2"
+                   id="path987-1"
                    style="font-size:13.3333px;text-align:center;text-anchor:middle"
                    d="m 57.943286,936.78633 q 0,2.18666 -0.733331,3.25332 -0.733332,1.06667 -2.133328,1.06667 -1.399997,0 -2.133328,-1.06667 -0.733332,-1.06666 -0.733332,-3.25332 0,-2.16 0.746665,-3.22666 0.746665,-1.06667 2.119995,-1.06667 1.399996,0 2.133328,1.06667 0.733331,1.05333 0.733331,3.22666 z m -1.479996,0 q 0,-1.41333 -0.359999,-2.14666 -0.346666,-0.74667 -1.026664,-0.74667 -0.666665,0 -1.026664,0.74667 -0.359999,0.73333 -0.359999,2.14666 0,1.42666 0.359999,2.17333 0.359999,0.73333 1.026664,0.73333 0.679998,0 1.026664,-0.73333 0.359999,-0.74667 0.359999,-2.17333 z m -0.639998,-0.13334 q 0,0.36 -0.213333,0.62667 -0.2,0.25333 -0.519999,0.25333 -0.346666,0 -0.546665,-0.25333 -0.2,-0.26667 -0.2,-0.62667 0,-0.35999 0.2,-0.62666 0.199999,-0.26667 0.546665,-0.26667 0.319999,0 0.519999,0.26667 0.213333,0.26667 0.213333,0.62666 z" />
               </g>
               <g
                  style="font-weight:bold;font-size:13.3333px;line-height:17.7778px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0px;word-spacing:0px"
-                 id="text141-2"
+                 id="text141-5"
                  aria-label="0">
                 <path
-                   id="path990-8"
+                   id="path990-9"
                    style="font-size:13.3333px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
                    d="m 336.10665,936.78633 q 0,2.18666 -0.73333,3.25332 -0.73333,1.06667 -2.13333,1.06667 -1.4,0 -2.13333,-1.06667 -0.73333,-1.06666 -0.73333,-3.25332 0,-2.16 0.74667,-3.22666 0.74666,-1.06667 2.11999,-1.06667 1.4,0 2.13333,1.06667 0.73333,1.05333 0.73333,3.22666 z m -1.48,0 q 0,-1.41333 -0.36,-2.14666 -0.34666,-0.74667 -1.02666,-0.74667 -0.66666,0 -1.02666,0.74667 -0.36,0.73333 -0.36,2.14666 0,1.42666 0.36,2.17333 0.36,0.73333 1.02666,0.73333 0.68,0 1.02666,-0.73333 0.36,-0.74667 0.36,-2.17333 z m -0.63999,-0.13334 q 0,0.36 -0.21334,0.62667 -0.2,0.25333 -0.52,0.25333 -0.34666,0 -0.54666,-0.25333 -0.2,-0.26667 -0.2,-0.62667 0,-0.35999 0.2,-0.62666 0.2,-0.26667 0.54666,-0.26667 0.32,0 0.52,0.26667 0.21334,0.26667 0.21334,0.62666 z" />
               </g>
               <g
                  style="font-weight:bold;font-size:13.3333px;line-height:17.7778px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0px;word-spacing:0px"
-                 id="text968-9"
+                 id="text968-7"
                  aria-label="95">
                 <path
                    id="path993-7"
                    style="font-size:13.3333px;text-align:center;text-anchor:middle"
                    d="m 102.18932,936.54633 q 0.25333,0 0.53333,-0.0533 0.28,-0.0533 0.45333,-0.14666 0.0133,-0.10667 0.0133,-0.25333 0.0133,-0.16 0.0133,-0.30667 0,-0.33333 -0.0667,-0.66667 -0.0533,-0.34666 -0.2,-0.62666 -0.13333,-0.28 -0.37333,-0.45333 -0.22667,-0.17334 -0.57333,-0.17334 -0.29333,0 -0.50667,0.12 -0.2,0.10667 -0.33333,0.29334 -0.12,0.18666 -0.18667,0.44 -0.0533,0.25333 -0.0533,0.53333 0,0.62666 0.29333,0.96 0.29334,0.33333 0.98667,0.33333 z m -0.21333,1.35999 q -0.72,0 -1.22667,-0.2 -0.50666,-0.21333 -0.826663,-0.57333 -0.319999,-0.36 -0.466665,-0.82666 -0.146667,-0.48 -0.146667,-1.02667 0,-0.47999 0.16,-0.97333 0.173333,-0.50666 0.493332,-0.90666 0.333333,-0.41333 0.826663,-0.66667 0.49333,-0.26666 1.16,-0.26666 1.38666,0 2.11999,0.93333 0.73333,0.93333 0.73333,2.59999 0,1.2 -0.34666,2.13333 -0.34667,0.92 -1,1.54666 -0.64,0.62667 -1.55999,0.96 -0.90667,0.32 -2.026666,0.32 l -0.05333,-1.41333 q 1.066656,-0.0133 1.906656,-0.45333 0.84,-0.45333 1.18667,-1.41333 -0.52,0.22666 -0.93333,0.22666 z" />
                 <path
-                   id="path995-3"
+                   id="path995-6"
                    style="font-size:13.3333px;text-align:center;text-anchor:middle"
                    d="m 109.65597,938.50632 q 0,-0.34666 -0.12,-0.62666 -0.10667,-0.29333 -0.45334,-0.49333 -0.33333,-0.21334 -0.95999,-0.32 -0.62667,-0.12 -1.64,-0.12 0.13333,-1.12 0.21333,-2.18666 0.08,-1.08 0.12,-2.08 h 4.21333 v 1.36 h -2.84 q -0.0267,0.42666 -0.0667,0.89333 -0.04,0.46666 -0.0667,0.76 1.65333,0.10666 2.46666,0.79999 0.81333,0.69334 0.81333,1.94667 0,0.57333 -0.2,1.06666 -0.2,0.48 -0.61333,0.84 -0.41333,0.36 -1.02666,0.56 -0.61334,0.2 -1.42667,0.2 -0.32,0 -0.65333,-0.04 -0.33333,-0.04 -0.64,-0.10667 -0.30666,-0.0533 -0.56,-0.13333 -0.23999,-0.08 -0.37333,-0.14667 l 0.33333,-1.36 q 0.29334,0.14667 0.74667,0.26667 0.45333,0.12 1.13333,0.12 0.48,0 0.78666,-0.10667 0.32,-0.10666 0.49334,-0.26666 0.18666,-0.17334 0.25333,-0.38667 0.0667,-0.21333 0.0667,-0.44 z" />
               </g>
               <g
                  style="font-weight:bold;font-size:13.3333px;line-height:17.7778px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0px;word-spacing:0px"
-                 id="text973-6"
+                 id="text973-7"
                  aria-label="90">
                 <path
-                   id="path998-1"
+                   id="path998-3"
                    style="font-size:13.3333px;text-align:center;text-anchor:middle"
                    d="m 159.15532,936.54633 q 0.25333,0 0.53333,-0.0533 0.28,-0.0533 0.45334,-0.14666 0.0133,-0.10667 0.0133,-0.25333 0.0133,-0.16 0.0133,-0.30667 0,-0.33333 -0.0667,-0.66667 -0.0533,-0.34666 -0.2,-0.62666 -0.13334,-0.28 -0.37334,-0.45333 -0.22666,-0.17334 -0.57333,-0.17334 -0.29333,0 -0.50666,0.12 -0.2,0.10667 -0.33334,0.29334 -0.12,0.18666 -0.18666,0.44 -0.0533,0.25333 -0.0533,0.53333 0,0.62666 0.29334,0.96 0.29333,0.33333 0.98666,0.33333 z m -0.21333,1.35999 q -0.72,0 -1.22666,-0.2 -0.50667,-0.21333 -0.82667,-0.57333 -0.32,-0.36 -0.46667,-0.82666 -0.14666,-0.48 -0.14666,-1.02667 0,-0.47999 0.16,-0.97333 0.17333,-0.50666 0.49333,-0.90666 0.33333,-0.41333 0.82666,-0.66667 0.49334,-0.26666 1.16,-0.26666 1.38667,0 2.12,0.93333 0.73333,0.93333 0.73333,2.59999 0,1.2 -0.34667,2.13333 -0.34666,0.92 -1,1.54666 -0.63999,0.62667 -1.55999,0.96 -0.90667,0.32 -2.02666,0.32 l -0.0533,-1.41333 q 1.06667,-0.0133 1.90667,-0.45333 0.83999,-0.45333 1.18666,-1.41333 -0.52,0.22666 -0.93333,0.22666 z" />
                 <path
-                   id="path1000-2"
+                   id="path1000-6"
                    style="font-size:13.3333px;text-align:center;text-anchor:middle"
                    d="m 168.54196,936.78633 q 0,2.18666 -0.73333,3.25332 -0.73333,1.06667 -2.13333,1.06667 -1.39999,0 -2.13332,-1.06667 -0.73333,-1.06666 -0.73333,-3.25332 0,-2.16 0.74666,-3.22666 0.74667,-1.06667 2.11999,-1.06667 1.4,0 2.13333,1.06667 0.73333,1.05333 0.73333,3.22666 z m -1.47999,0 q 0,-1.41333 -0.36,-2.14666 -0.34667,-0.74667 -1.02667,-0.74667 -0.66666,0 -1.02666,0.74667 -0.36,0.73333 -0.36,2.14666 0,1.42666 0.36,2.17333 0.36,0.73333 1.02666,0.73333 0.68,0 1.02667,-0.73333 0.36,-0.74667 0.36,-2.17333 z m -0.64,-0.13334 q 0,0.36 -0.21333,0.62667 -0.2,0.25333 -0.52,0.25333 -0.34667,0 -0.54667,-0.25333 -0.2,-0.26667 -0.2,-0.62667 0,-0.35999 0.2,-0.62666 0.2,-0.26667 0.54667,-0.26667 0.32,0 0.52,0.26667 0.21333,0.26667 0.21333,0.62666 z" />
               </g>
               <g
                  style="font-weight:bold;font-size:13.3333px;line-height:17.7778px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0px;word-spacing:0px"
-                 id="text977-9"
+                 id="text977-5"
                  aria-label="10">
                 <path
-                   id="path1003-3"
+                   id="path1003-6"
                    style="font-size:13.3333px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
                    d="m 215.48133,939.57299 v -4.61332 q -0.37334,0.26666 -0.85333,0.47999 -0.48,0.2 -0.81334,0.32 l -0.53333,-1.35999 q 0.32,-0.12 0.69333,-0.30667 0.37334,-0.18667 0.74667,-0.41333 0.37333,-0.22667 0.70666,-0.48 0.33334,-0.25333 0.57334,-0.52 h 1.11999 v 6.89332 h 1.64 v 1.35999 H 213.748 v -1.35999 z" />
                 <path
-                   id="path1005-1"
+                   id="path1005-3"
                    style="font-size:13.3333px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
                    d="m 225.50797,936.78633 q 0,2.18666 -0.73333,3.25332 -0.73334,1.06667 -2.13333,1.06667 -1.4,0 -2.13333,-1.06667 -0.73333,-1.06666 -0.73333,-3.25332 0,-2.16 0.74666,-3.22666 0.74667,-1.06667 2.12,-1.06667 1.39999,0 2.13333,1.06667 0.73333,1.05333 0.73333,3.22666 z m -1.48,0 q 0,-1.41333 -0.36,-2.14666 -0.34666,-0.74667 -1.02666,-0.74667 -0.66667,0 -1.02667,0.74667 -0.35999,0.73333 -0.35999,2.14666 0,1.42666 0.35999,2.17333 0.36,0.73333 1.02667,0.73333 0.68,0 1.02666,-0.73333 0.36,-0.74667 0.36,-2.17333 z m -0.64,-0.13334 q 0,0.36 -0.21333,0.62667 -0.2,0.25333 -0.52,0.25333 -0.34666,0 -0.54666,-0.25333 -0.2,-0.26667 -0.2,-0.62667 0,-0.35999 0.2,-0.62666 0.2,-0.26667 0.54666,-0.26667 0.32,0 0.52,0.26667 0.21333,0.26667 0.21333,0.62666 z" />
               </g>
@@ -967,7 +967,7 @@
             </g>
           </g>
           <text
-             id="text1065-7"
+             id="text1065-8"
              y="893.61603"
              x="19.253332"
              style="font-weight:bold;font-size:18.6667px;line-height:29.3333px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0px;word-spacing:0px"
@@ -975,42 +975,42 @@
                style="font-size:18.6667px;fill:#ffffff;fill-opacity:1"
                y="893.61603"
                x="19.253332"
-               id="tspan1063-8"
+               id="tspan1063-1"
                sodipodi:role="line">SCREEN CALIBRATION:</tspan></text>
           <text
-             id="text1069-4"
+             id="text1069-2"
              y="992.90399"
              x="19.856001"
              style="font-weight:bold;font-size:16px;line-height:18px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0px;word-spacing:0px"
              xml:space="preserve"><tspan
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;fill-opacity:1"
-               id="tspan1075-5"
+               id="tspan1075-9"
                y="992.90399"
                x="19.856001"
                sodipodi:role="line">Make sure you can distinguish all of the above grayscale: 100, 95, 90... Otherwise, you will need</tspan><tspan
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;fill-opacity:1"
-               id="tspan1079-0"
+               id="tspan1079-3"
                y="1010.904"
                x="19.856001"
                sodipodi:role="line">to adjust your monitor and/or computer. Also, check your color balance. The boxes above are pure</tspan><tspan
-               id="tspan1089-3"
+               id="tspan1089-9"
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;fill-opacity:1"
                y="1028.9041"
                x="19.856001"
                sodipodi:role="line">yellow, magenta, cyan, blue, green, and red. They must appear as such.</tspan></text>
         </g>
         <g
-           id="g935-6"
+           id="g935-0"
            transform="translate(400,150)">
           <rect
-             style="opacity:1;vector-effect:none;fill:#00a2c2;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="rect830-1"
+             style="opacity:1;vector-effect:none;fill:#00aacc;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect830-8"
              width="180"
              height="180"
              x="20"
              y="261.79999" />
           <text
-             id="text59-0"
+             id="text59-8"
              y="361.59198"
              x="39.784"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
@@ -1020,33 +1020,28 @@
                y="361.59198"
                x="39.784"
                sodipodi:role="line">Aqua</tspan><tspan
-               id="tspan872"
                style="line-height:18px;fill:#ffffff;fill-opacity:1"
                y="386.59198"
                x="39.784"
-               sodipodi:role="line">HSL 190,100,38</tspan><tspan
-               style="line-height:18px;fill:#ffffff;fill-opacity:1"
-               y="411.59198"
-               x="39.784"
                sodipodi:role="line"
-               id="tspan933-6">ColorContrast 3.0</tspan></text>
+               id="tspan933-5">HSL 190,100,40</tspan></text>
         </g>
         <g
-           id="g956-3"
+           id="g956-0"
            transform="translate(0,-50)">
           <rect
              y="261.79999"
              x="620"
              height="180"
              width="180"
-             id="rect55-2"
+             id="rect55-9"
              style="opacity:1;vector-effect:none;fill:#767676;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
              xml:space="preserve"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
              x="639.56799"
              y="361.59198"
-             id="text896-0"><tspan
+             id="text896-6"><tspan
                sodipodi:role="line"
                x="639.56799"
                y="361.59198"
@@ -1056,15 +1051,10 @@
                x="639.56799"
                y="386.59198"
                style="line-height:18px;fill:#ffffff;fill-opacity:1"
-               id="tspan892">#767676</tspan><tspan
-               sodipodi:role="line"
-               x="639.56799"
-               y="411.59198"
-               style="line-height:18px;fill:#ffffff;fill-opacity:1"
-               id="tspan894-6">ColorContrast 4.5</tspan></text>
+               id="tspan894-3">#767676</tspan></text>
         </g>
         <g
-           id="g990-1"
+           id="g990-8"
            transform="translate(-200,-45.399994)">
           <rect
              y="457.19998"
@@ -1072,9 +1062,9 @@
              height="180"
              width="180"
              id="rect812-5"
-             style="vector-effect:none;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+             style="vector-effect:none;fill:#ff741a;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
-             id="text904-5"
+             id="text904-6"
              y="556.992"
              x="439.56799"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
@@ -1084,29 +1074,24 @@
                y="556.992"
                x="439.56799"
                sodipodi:role="line">Orange</tspan><tspan
-               id="tspan900"
+               id="tspan902-1"
                style="line-height:18px;fill:#ffffff;fill-opacity:1"
                y="581.992"
                x="439.56799"
-               sodipodi:role="line">HSL 24,100,50</tspan><tspan
-               id="tspan902-4"
-               style="line-height:18px;fill:#ffffff;fill-opacity:1"
-               y="606.992"
-               x="439.56799"
-               sodipodi:role="line">ColorContrast 2.9</tspan></text>
+               sodipodi:role="line">HSL 24,100,55</tspan></text>
         </g>
         <g
-           id="g970-7"
+           id="g970-1"
            transform="translate(400,150)">
           <rect
              y="461.79999"
              x="220"
              height="180"
              width="180"
-             id="rect822-65"
-             style="opacity:1;vector-effect:none;fill:#f42569;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+             id="rect822-5"
+             style="opacity:1;vector-effect:none;fill:#ff3376;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
-             id="text912-6"
+             id="text912-9"
              y="561.59198"
              x="239.56799"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
@@ -1116,23 +1101,18 @@
                y="561.59198"
                x="239.56799"
                sodipodi:role="line">Pink</tspan><tspan
-               id="tspan908"
+               id="tspan910-8"
                style="line-height:18px;fill:#ffffff;fill-opacity:1"
                y="586.59198"
                x="239.56799"
-               sodipodi:role="line">HSL 340,90,55 </tspan><tspan
-               id="tspan910-9"
-               style="line-height:18px;fill:#ffffff;fill-opacity:1"
-               y="611.59198"
-               x="239.56799"
-               sodipodi:role="line">ColorContrast 4.0</tspan></text>
+               sodipodi:role="line">HSL 340,100,60</tspan></text>
         </g>
         <g
-           id="g977-3"
+           id="g977-4"
            transform="translate(0,150)">
           <rect
-             style="opacity:1;vector-effect:none;fill:#ab2ad5;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="rect820-74"
+             style="opacity:1;vector-effect:none;fill:#a528cd;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect820-8"
              width="180"
              height="180"
              x="420"
@@ -1142,7 +1122,7 @@
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
              x="439.56799"
              y="561.59198"
-             id="text920-5"><tspan
+             id="text920-1"><tspan
                sodipodi:role="line"
                x="439.56799"
                y="561.59198"
@@ -1152,25 +1132,20 @@
                x="439.56799"
                y="586.59198"
                style="line-height:18px;fill:#ffffff;fill-opacity:1"
-               id="tspan916">HSL 285,67,50 </tspan><tspan
-               sodipodi:role="line"
-               x="439.56799"
-               y="611.59198"
-               style="line-height:18px;fill:#ffffff;fill-opacity:1"
-               id="tspan918-2">ColorContrast 5.2</tspan></text>
+               id="tspan918-0">HSL 285,67,48</tspan></text>
         </g>
         <g
-           id="g984-5"
+           id="g984-3"
            transform="translate(-600,-50)">
           <rect
              y="461.79999"
              x="620"
              height="180"
              width="180"
-             id="rect824-4"
-             style="opacity:1;vector-effect:none;fill:#f20e22;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+             id="rect824-0"
+             style="opacity:1;vector-effect:none;fill:#ff192d;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
-             id="text928-7"
+             id="text928-4"
              y="561.59198"
              x="639.56799"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
@@ -1180,16 +1155,11 @@
                y="561.59198"
                x="639.56799"
                sodipodi:role="line">Red</tspan><tspan
-               id="tspan924"
                style="line-height:18px;fill:#ffffff;fill-opacity:1"
                y="586.59198"
                x="639.56799"
-               sodipodi:role="line">HSL 355,90,50 </tspan><tspan
-               style="line-height:18px;fill:#ffffff;fill-opacity:1"
-               y="611.59198"
-               x="639.56799"
                sodipodi:role="line"
-               id="tspan923-4">ColorContrast 4.3</tspan></text>
+               id="tspan923-4">HSL 355,100,55</tspan></text>
         </g>
         <g
            id="g1099"
@@ -1212,16 +1182,11 @@
                y="761.59198"
                style="font-size:24px;line-height:18px;fill:#ffffff;fill-opacity:1"
                id="tspan1091">MintContrast</tspan><tspan
-               sodipodi:role="line"
-               x="439.56799"
-               y="786.59198"
-               style="line-height:18px;fill:#ffffff;fill-opacity:1"
-               id="tspan1093">HSL 150,75,38</tspan><tspan
                id="tspan1095"
                sodipodi:role="line"
                x="439.56799"
-               y="811.59198"
-               style="line-height:18px;fill:#ffffff;fill-opacity:1">ColorContrast 3.0</tspan></text>
+               y="786.59198"
+               style="line-height:18px;fill:#ffffff;fill-opacity:1">HSL 150,75,38</tspan></text>
         </g>
         <g
            transform="translate(-400,-450)"
@@ -1244,23 +1209,18 @@
                y="761.59198"
                x="439.56799"
                sodipodi:role="line">Mint</tspan><tspan
-               id="tspan950"
                style="line-height:18px;fill:#ffffff;fill-opacity:1"
                y="786.59198"
                x="439.56799"
-               sodipodi:role="line">HSL 150,90,40</tspan><tspan
-               style="line-height:18px;fill:#ffffff;fill-opacity:1"
-               y="811.59198"
-               x="439.56799"
                sodipodi:role="line"
-               id="tspan992">ColorContrast 2.35</tspan></text>
+               id="tspan992">HSL 150,90,40</tspan></text>
         </g>
         <g
            id="g942-4"
            transform="translate(400,150)">
           <rect
-             style="opacity:1;vector-effect:none;fill:#1e77d2;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="rect842-3"
+             style="opacity:1;vector-effect:none;fill:#1a80e5;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect842-4"
              width="180"
              height="180"
              x="220"
@@ -1270,7 +1230,7 @@
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
              x="239.56799"
              y="361.59198"
-             id="text880-0"><tspan
+             id="text880-7"><tspan
                sodipodi:role="line"
                x="239.56799"
                y="361.59198"
@@ -1280,19 +1240,14 @@
                x="239.56799"
                y="386.59198"
                style="line-height:18px;fill:#ffffff;fill-opacity:1"
-               id="tspan878">HSL 210,75,47</tspan><tspan
-               sodipodi:role="line"
-               x="239.56799"
-               y="411.59198"
-               style="line-height:18px;fill:#ffffff;fill-opacity:1"
-               id="tspan935-7">ColorContrast 4.5</tspan></text>
+               id="tspan935-6">HSL 210,80,50</tspan></text>
         </g>
         <g
-           id="g983-8"
+           id="g983-3"
            transform="translate(0,-50)">
           <rect
-             style="vector-effect:none;fill:#2a47d5;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="rect828-6"
+             style="vector-effect:none;fill:#3653e2;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect828-1"
              width="180"
              height="180"
              x="20"
@@ -1302,7 +1257,7 @@
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
              x="39.568001"
              y="761.59198"
-             id="text976-8"
+             id="text976-7"
              inkscape:export-xdpi="96"
              inkscape:export-ydpi="96"><tspan
                sodipodi:role="line"
@@ -1314,12 +1269,7 @@
                x="39.568001"
                y="786.59198"
                style="line-height:18px;fill:#ffffff;fill-opacity:1"
-               id="tspan972">HSL 230,67,50</tspan><tspan
-               sodipodi:role="line"
-               x="39.568001"
-               y="811.59198"
-               style="line-height:18px;fill:#ffffff;fill-opacity:1"
-               id="tspan974-8">ColorContrast 7.0</tspan></text>
+               id="tspan974-5">HSL 230,75,55</tspan></text>
         </g>
         <g
            transform="translate(-200,150)"
@@ -1342,25 +1292,20 @@
                y="561.59198"
                x="439.56799"
                sodipodi:role="line">PurpleDeep</tspan><tspan
-               id="tspan952"
+               id="tspan954"
                style="line-height:18px;fill:#ffffff;fill-opacity:1"
                y="586.59198"
                x="439.56799"
-               sodipodi:role="line">HSL 270,75,45 </tspan><tspan
-               id="tspan954"
-               style="line-height:18px;fill:#ffffff;fill-opacity:1"
-               y="611.59198"
-               x="439.56799"
-               sodipodi:role="line">ColorContrast 7.6</tspan></text>
+               sodipodi:role="line">HSL 270,75,45</tspan></text>
         </g>
       </g>
       <g
-         id="layer2-4"
+         id="layer2-96"
          inkscape:label="colors2 (darken)"
          style="display:none">
         <rect
            style="fill:#000000;fill-opacity:0.1;stroke-width:0"
-           id="rect920-3"
+           id="rect920-2"
            width="820"
            height="620"
            x="0"
@@ -1375,16 +1320,16 @@
            x="0"
            height="620"
            width="820"
-           id="rect937-4"
+           id="rect937-7"
            style="display:inline;fill:#ffffff;fill-opacity:0.2;stroke-width:0" />
       </g>
       <g
-         id="layer4-9"
+         id="layer4-8"
          inkscape:label="colors4 (darken)"
          style="display:none">
         <rect
            style="display:inline;fill:#000000;fill-opacity:0.3;stroke-width:0"
-           id="rect940-2"
+           id="rect940-5"
            width="820"
            height="620"
            x="0"
