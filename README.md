@@ -1,4 +1,6 @@
 # Mint-Yz: The New Colors of a New Era (Gtk theme)
+Don't miss the **Mint-Yz-icons** with the same color scheme: https://github.com/SebastJava/mint-yz-icons
+
 **The interface of all your software and the entire desktop is now rejuvenated, modernized. This is a fork from your reliable Mint-Y theme. It is the standard Linux Mint Gtk theme now in a new edition with more energized and readable colors.**
 
 That’s 10 different colors in 3 different variants: light, darker and darkest. This makes 30 different themes, all included in one little Debian package. And all of this is done on a solid foundation of improved shell and Python programs. It is also renamed **Mint-Yz** and is a separate Debian package. This means you can install it in addition to the standard **Mint-Y,** compare, experiment, and change your mind at any time. Your good old Mint-Y will not be removed or changed. And all of this is made very easy, see the installation instructions below.
