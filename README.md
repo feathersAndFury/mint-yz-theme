@@ -40,6 +40,8 @@ The official Mint-Y colors are currently being re-edited. Some people are saying
 
 Express your preferences for the official Mint-Y, before it is too late: [https://github.com/linuxmint/mint-y-colors/issues](https://github.com/linuxmint/mint-y-colors/issues)
 
+You can also [Do-It-Yourself](https://github.com/SebastJava/mint-yz-theme/blob/colors/Do-It-Yourself.md)
+
 ### Credits
 This theme is based on the Mint-Y theme, which is based on the Arc theme: <br>
 &emsp;&emsp; Link: [https://github.com/linuxmint/mint-themes](https://github.com/linuxmint/mint-themes)  <br>
