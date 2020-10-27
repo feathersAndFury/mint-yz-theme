@@ -66,7 +66,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -641,33 +641,6 @@
            id="tspan974">HSL 230,75,55</tspan></text>
     </g>
     <g
-       transform="translate(-200,150)"
-       id="g958">
-      <rect
-         y="461.79999"
-         x="420"
-         height="180"
-         width="180"
-         id="rect946"
-         style="opacity:1;vector-effect:none;fill:#8020df;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <text
-         id="text956"
-         y="561.59198"
-         x="439.56799"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           id="tspan948"
-           style="font-size:24px;line-height:18px;fill:#ffffff;fill-opacity:1"
-           y="561.59198"
-           x="439.56799"
-           sodipodi:role="line">PurpleDeep</tspan><tspan
-           id="tspan954"
-           style="line-height:18px;fill:#ffffff;fill-opacity:1"
-           y="586.59198"
-           x="439.56799"
-           sodipodi:role="line">HSL 270,75,50</tspan></text>
-    </g>
-    <g
        transform="translate(0,-450)"
        id="g950">
       <rect
@@ -688,6 +661,33 @@
            x="439.56799"
            sodipodi:role="line"
            id="tspan945" /></text>
+    </g>
+    <g
+       transform="translate(-200,150)"
+       id="g958">
+      <rect
+         y="461.79999"
+         x="420"
+         height="180"
+         width="180"
+         id="rect946"
+         style="opacity:1;vector-effect:none;fill:#802ad5;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text956"
+         y="561.59198"
+         x="439.56799"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan948"
+           style="font-size:24px;line-height:18px;fill:#ffffff;fill-opacity:1"
+           y="561.59198"
+           x="439.56799"
+           sodipodi:role="line">PurpleDeep</tspan><tspan
+           id="tspan954"
+           style="line-height:18px;fill:#ffffff;fill-opacity:1"
+           y="586.59198"
+           x="439.56799"
+           sodipodi:role="line">HSL 270,67,50</tspan></text>
     </g>
   </g>
   <g
