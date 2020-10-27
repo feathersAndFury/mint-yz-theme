@@ -308,16 +308,21 @@ StScrollBar {
   -arrow-rise: 9px;
   -boxpointer-gap: 2px; }
 
-/*Don't know what this does*/
+/*Scale view context menu*/
 .popup-combo-menu {
-  background-color: rgba(0, 0, 0, 0.4);
-  padding: 1em 0em;
-  color: red;
-  border: 1px solid rgba(0, 0, 0, 0.6);
-  border-radius: 3px; }
+  color: #202020;
+  border: 1px solid #d9d9d9;
+  border-radius: 3px;
+  background-color: #ffffff;
+  box-shadow: none;
+  padding: 1em 0em 1em 0em; }
 
 .popup-combobox-item {
-  spacing: 1em; }
+  spacing: 1em;
+  padding: .4em 1.75em;
+  border: 1px solid transparent;
+  border-left-width: 0;
+  border-right-width: 0; }
 
 .popup-separator-menu-item {
   -gradient-height: 1px;
@@ -1452,15 +1457,11 @@ StScrollBar {
   text-shadow: none;
   transition-duration: 100;
   text-align: center; }
-  .applet-box StLabel {
-    padding-top: 2px; }
   .applet-box.vertical {
     padding-left: 0px;
     padding-right: 0px;
     padding-top: 3px;
     padding-bottom: 3px; }
-    .applet-box.vertical StLabel {
-      padding-top: 0; }
   .applet-box:hover, .applet-box:checked {
     color: #ffffff;
     background-color: #92b372; }
