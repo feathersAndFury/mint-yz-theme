@@ -68,8 +68,8 @@ y_hex_colors2["Purple"] = "#A633CC"
 y_hex_colors3["Purple"] = "#B85CD6"
 y_hex_colors4["Purple"] = "#75248F"
 
-y_hex_colors1["Pink"] = "#F655A5"
-y_hex_colors2["Pink"] = "#F655A5"
-y_hex_colors3["Pink"] = "#F877B7"
-y_hex_colors4["Pink"] = "#AD3C74"
+y_hex_colors1["Pink"] = "#FF4CA5"
+y_hex_colors2["Pink"] = "#FF4CA5"
+y_hex_colors3["Pink"] = "#FF70B7"
+y_hex_colors4["Pink"] = "#B33574"
 
