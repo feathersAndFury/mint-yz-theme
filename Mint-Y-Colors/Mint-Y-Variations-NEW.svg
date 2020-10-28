@@ -27,8 +27,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="398.61695"
-     inkscape:cy="420"
+     inkscape:cx="232.43529"
+     inkscape:cy="460"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -417,7 +417,7 @@
          height="180"
          width="180"
          id="rect812"
-         style="vector-effect:none;fill:#ff741a;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="vector-effect:none;fill:#f97520;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
          id="text904"
          y="556.992"
@@ -433,7 +433,7 @@
            style="line-height:18px;fill:#ffffff;fill-opacity:1"
            y="581.992"
            x="439.56799"
-           sodipodi:role="line">HSL 24,100,55</tspan></text>
+           sodipodi:role="line">HSL 24,95,55</tspan></text>
     </g>
     <g
        id="g970"
@@ -444,7 +444,7 @@
          height="180"
          width="180"
          id="rect822"
-         style="opacity:1;vector-effect:none;fill:#ff4ca5;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="opacity:1;vector-effect:none;fill:#f655a5;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
          id="text912"
          y="561.59198"
@@ -460,13 +460,13 @@
            style="line-height:18px;fill:#ffffff;fill-opacity:1"
            y="586.59198"
            x="239.56799"
-           sodipodi:role="line">HSL 330,100,65</tspan></text>
+           sodipodi:role="line">HSL 330,90,65</tspan></text>
     </g>
     <g
        id="g977"
        transform="translate(0,150)">
       <rect
-         style="opacity:1;vector-effect:none;fill:#a528cd;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;vector-effect:none;fill:#a633cc;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect820"
          width="180"
          height="180"
@@ -487,7 +487,7 @@
            x="439.56799"
            y="586.59198"
            style="line-height:18px;fill:#ffffff;fill-opacity:1"
-           id="tspan918">HSL 285,67,48</tspan></text>
+           id="tspan918">HSL 285,60,50</tspan></text>
     </g>
     <g
        id="g984"
@@ -525,7 +525,7 @@
          height="180"
          width="180"
          id="rect1089"
-         style="opacity:1;vector-effect:none;fill:#7caa22;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="opacity:1;vector-effect:none;fill:#7aa329;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
@@ -536,12 +536,12 @@
            x="439.56799"
            y="761.59198"
            style="font-size:24px;line-height:18px;fill:#ffffff;fill-opacity:1"
-           id="tspan1091">MintLemon</tspan><tspan
+           id="tspan1091">MintLime</tspan><tspan
            id="tspan1095"
            sodipodi:role="line"
            x="439.56799"
            y="786.59198"
-           style="line-height:18px;fill:#ffffff;fill-opacity:1">HSL 80,67,40</tspan></text>
+           style="line-height:18px;fill:#ffffff;fill-opacity:1">HSL 80,60,40</tspan></text>
     </g>
     <g
        transform="translate(-400,-450)"
@@ -635,7 +635,7 @@
          height="180"
          width="180"
          id="rect946"
-         style="opacity:1;vector-effect:none;fill:#802ad5;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="opacity:1;vector-effect:none;fill:#8033cc;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
          id="text956"
          y="561.59198"
@@ -651,7 +651,7 @@
            style="line-height:18px;fill:#ffffff;fill-opacity:1"
            y="586.59198"
            x="439.56799"
-           sodipodi:role="line">HSL 270,67,50</tspan></text>
+           sodipodi:role="line">HSL 270,60,50</tspan></text>
     </g>
     <g
        transform="translate(0,-450)"
