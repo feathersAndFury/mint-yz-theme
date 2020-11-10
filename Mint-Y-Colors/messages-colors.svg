@@ -8,7 +8,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="messages-colors.svg"
-   inkscape:version="1.0.1 (1.0.1+r73)"
+   inkscape:version="1.0.1 (1.0.1+r74)"
    id="svg8"
    version="1.1"
    viewBox="0 0 1200 900"
@@ -29,7 +29,7 @@
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      inkscape:cy="450"
-     inkscape:cx="577.43936"
+     inkscape:cx="855.7772"
      inkscape:zoom="1"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -275,7 +275,7 @@
          id="tspan938"
          x="810"
          y="97.956238"
-         style="line-height:50px">$link_color: #1A7EE5;</tspan><tspan
+         style="line-height:50px">$link_color: #007EFF;</tspan><tspan
          sodipodi:role="line"
          x="810"
          y="147.95624"
@@ -457,9 +457,9 @@
        height="40"
        width="150"
        id="rect988"
-       style="fill:#aa40bf;fill-opacity:1;stroke-width:0.82903504" />
+       style="fill:#aa40bf;fill-opacity:1;stroke-width:0.829038" />
     <rect
-       style="fill:#1a7ee5;fill-opacity:1;stroke-width:0.82903504"
+       style="fill:#007eff;fill-opacity:1;stroke-width:0.82903504"
        id="rect990"
        width="150"
        height="40"

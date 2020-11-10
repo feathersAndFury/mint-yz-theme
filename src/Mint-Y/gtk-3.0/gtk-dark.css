@@ -634,7 +634,7 @@ modelbutton.flat arrow.right {
 
 button:link, button:visited,
 *:link {
-  color: #1A7EE5; }
+  color: #007EFF; }
   button:visited,
   *:link:visited {
     color: #AA40BF; }
@@ -642,12 +642,12 @@ button:link, button:visited,
       color: #d2dcc8; }
   button:hover:link, button:hover:visited,
   *:link:hover {
-    color: #4898ea; }
+    color: #3398ff; }
     *:selected button:hover:link, *:selected button:hover:visited, *:selected *:link:hover {
       color: #f4f6f1; }
   button:active:link, button:active:visited,
   *:link:active {
-    color: #1A7EE5; }
+    color: #007EFF; }
     *:selected button:active:link, *:selected button:active:visited, *:selected *:link:active {
       color: #e9eee4; }
   infobar.info *:link, infobar.question *:link, infobar.warning *:link, infobar.error *:link, headerbar.selection-mode .subtitle:link,

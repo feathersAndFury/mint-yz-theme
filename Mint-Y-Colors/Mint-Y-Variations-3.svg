@@ -12,7 +12,7 @@
    viewBox="0 0 1920 1080"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0.1 (1.0.1+r73)"
+   inkscape:version="1.0.1 (1.0.1+r74)"
    sodipodi:docname="Mint-Y-Variations-3.svg"
    inkscape:export-filename="/home/sebastien/mint-yz-theme/Mint-Y-Colors/Mint-Y-Variations-3.png"
    inkscape:export-xdpi="96"
@@ -26,11 +26,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.71770833"
+     inkscape:zoom="0.70208333"
      inkscape:cx="960"
      inkscape:cy="540"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer7"
      showgrid="false"
      units="px"
      inkscape:lockguides="false"
@@ -645,9 +645,9 @@
      transform="translate(0,-91.799988)">
     <g
        id="g1052"
-       transform="translate(270,30)">
+       transform="translate(470,230)">
       <rect
-         style="opacity:1;vector-effect:none;fill:#0095ff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;vector-effect:none;fill:#0080ff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect1044"
          width="180"
          height="180"
@@ -668,7 +668,7 @@
            x="239.56799"
            y="386.59198"
            style="line-height:18px;fill:#ffffff;fill-opacity:1"
-           id="tspan1048">HSL 205,100,50</tspan></text>
+           id="tspan1048">HSL 210,100,50</tspan></text>
     </g>
     <g
        id="g1046">
@@ -808,7 +808,7 @@
        id="g1011"
        transform="translate(400,200)">
       <rect
-         style="vector-effect:none;fill:#00bbcc;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="vector-effect:none;fill:#00bacc;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect830"
          width="180"
          height="180"
@@ -941,11 +941,33 @@
            style="line-height:18px;fill:#ffffff;fill-opacity:1">HSL 290,50,50</tspan></text>
     </g>
     <g
-       id="g942"
-       transform="translate(470,230)">
+       id="g2967"
+       transform="translate(-200)">
       <rect
-         style="opacity:1;vector-effect:none;fill:#1a80e5;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect842"
+         y="291.79999"
+         x="690"
+         height="180"
+         width="180"
+         id="rect2959"
+         style="vector-effect:none;fill:#767676;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="709.56799"
+         y="391.59198"
+         id="text2965"><tspan
+           sodipodi:role="line"
+           x="709.56799"
+           y="391.59198"
+           style="line-height:18px;fill:#ffffff;fill-opacity:1"
+           id="tspan2963" /></text>
+    </g>
+    <g
+       id="g2997"
+       transform="translate(1430,230)">
+      <rect
+         style="opacity:1;vector-effect:none;fill:#0080ff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect2989"
          width="180"
          height="180"
          x="220"
@@ -955,89 +977,62 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
          x="239.56799"
          y="361.59198"
-         id="text880"><tspan
+         id="text2995"><tspan
            sodipodi:role="line"
            x="239.56799"
            y="361.59198"
            style="font-size:24px;line-height:18px;fill:#ffffff;fill-opacity:1"
-           id="tspan874">BlueSub</tspan><tspan
+           id="tspan2991">Blue</tspan><tspan
            sodipodi:role="line"
            x="239.56799"
            y="386.59198"
            style="line-height:18px;fill:#ffffff;fill-opacity:1"
-           id="tspan935">HSL 210,80,50</tspan></text>
+           id="tspan2993">HSL 210,100,50</tspan></text>
     </g>
     <g
-       id="g1060"
-       transform="translate(1230,30)">
-      <rect
-         style="opacity:1;vector-effect:none;fill:#0095ff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect1052"
-         width="180"
-         height="180"
-         x="220"
-         y="261.79999" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-         x="239.56799"
-         y="361.59198"
-         id="text1058"><tspan
-           sodipodi:role="line"
-           x="239.56799"
-           y="361.59198"
-           style="font-size:24px;line-height:18px;fill:#ffffff;fill-opacity:1"
-           id="tspan1054">Blue</tspan><tspan
-           sodipodi:role="line"
-           x="239.56799"
-           y="386.59198"
-           style="line-height:18px;fill:#ffffff;fill-opacity:1"
-           id="tspan1056">HSL 205,100,50</tspan></text>
-    </g>
-    <g
-       id="g1080"
+       id="g3017"
        transform="translate(1160)">
       <rect
          y="291.79999"
          x="90"
          height="180"
          width="180"
-         id="rect1072"
+         id="rect3009"
          style="vector-effect:none;fill:#0ac266;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
          x="109.56799"
          y="391.59198"
-         id="text1078"><tspan
+         id="text3015"><tspan
            sodipodi:role="line"
            x="109.56799"
            y="391.59198"
            style="font-size:24px;line-height:18px;fill:#ffffff;fill-opacity:1"
-           id="tspan1074">MintFresh</tspan><tspan
-           id="tspan1076"
+           id="tspan3011">MintFresh</tspan><tspan
+           id="tspan3013"
            sodipodi:role="line"
            x="109.56799"
            y="416.59198"
            style="line-height:18px;fill:#ffffff;fill-opacity:1">HSL 150,90,40</tspan></text>
     </g>
     <g
-       id="g1090"
+       id="g3027"
        transform="translate(960,-200)">
       <rect
          style="vector-effect:none;fill:#6abf40;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect1082"
+         id="rect3019"
          width="180"
          height="180"
          x="90"
          y="491.79999" />
       <text
-         id="text1088"
+         id="text3025"
          y="591.59198"
          x="109.56799"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           id="tspan1084"
+           id="tspan3021"
            style="font-size:24px;line-height:18px;fill:#ffffff;fill-opacity:1"
            y="591.59198"
            x="109.56799"
@@ -1046,25 +1041,25 @@
            y="616.59198"
            x="109.56799"
            sodipodi:role="line"
-           id="tspan1086">HSL 100,50,50</tspan></text>
+           id="tspan3023">HSL 100,50,50</tspan></text>
     </g>
     <g
-       id="g1100"
+       id="g3037"
        transform="translate(960,200)">
       <rect
          y="291.79999"
          x="90"
          height="180"
          width="180"
-         id="rect1092"
+         id="rect3029"
          style="vector-effect:none;fill:#ff1a40;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
-         id="text1098"
+         id="text3035"
          y="391.59198"
          x="109.56799"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           id="tspan1094"
+           id="tspan3031"
            style="font-size:24px;line-height:18px;fill:#ffffff;fill-opacity:1"
            y="391.59198"
            x="109.56799"
@@ -1073,52 +1068,52 @@
            y="416.59198"
            x="109.56799"
            sodipodi:role="line"
-           id="tspan1096">HSL 350,100,55</tspan></text>
+           id="tspan3033">HSL 350,100,55</tspan></text>
     </g>
     <g
-       id="g1110"
+       id="g3047"
        transform="translate(1160)">
       <rect
          y="491.79999"
          x="90"
          height="180"
          width="180"
-         id="rect1102"
+         id="rect3039"
          style="vector-effect:none;fill:#ff811a;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
-         id="text1108"
+         id="text3045"
          y="591.59198"
          x="109.56799"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           id="tspan1104"
+           id="tspan3041"
            style="font-size:24px;line-height:18px;fill:#ffffff;fill-opacity:1"
            y="591.59198"
            x="109.56799"
            sodipodi:role="line">Orange</tspan><tspan
-           id="tspan1106"
+           id="tspan3043"
            style="line-height:18px;fill:#ffffff;fill-opacity:1"
            y="616.59198"
            x="109.56799"
            sodipodi:role="line">HSL 27,100,55</tspan></text>
     </g>
     <g
-       id="g1120"
+       id="g3057"
        transform="translate(1360,200)">
       <rect
-         style="vector-effect:none;fill:#00bbcc;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect1112"
+         style="vector-effect:none;fill:#00bacc;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect3049"
          width="180"
          height="180"
          x="90"
          y="291.79999" />
       <text
-         id="text1118"
+         id="text3055"
          y="391.59198"
          x="109.784"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#00bbcc;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           id="tspan1114"
+           id="tspan3051"
            style="font-size:24px;line-height:18px;fill:#ffffff;fill-opacity:1"
            y="391.59198"
            x="109.784"
@@ -1127,96 +1122,90 @@
            y="416.59198"
            x="109.784"
            sodipodi:role="line"
-           id="tspan1116">HSL 185,100,40</tspan></text>
+           id="tspan3053">HSL 185,100,40</tspan></text>
     </g>
     <g
-       id="g1140"
+       id="g3077"
        transform="translate(1560)">
       <rect
          y="691.79999"
          x="90"
          height="180"
          width="180"
-         id="rect1132"
+         id="rect3069"
          style="vector-effect:none;fill:#ff4ca6;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
-         id="text1138"
+         id="text3075"
          y="791.59198"
          x="109.56799"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           id="tspan1134"
+           id="tspan3071"
            style="font-size:24px;line-height:18px;fill:#ffffff;fill-opacity:1"
            y="791.59198"
            x="109.56799"
            sodipodi:role="line">Pink</tspan><tspan
-           id="tspan1136"
+           id="tspan3073"
            style="line-height:18px;fill:#ffffff;fill-opacity:1"
            y="816.59198"
            x="109.56799"
            sodipodi:role="line">HSL 330,100,65</tspan></text>
     </g>
     <g
-       id="g1160"
+       id="g3097"
        transform="translate(1360,400)">
       <rect
          y="291.79999"
          x="90"
          height="180"
          width="180"
-         id="rect1152"
+         id="rect3089"
          style="vector-effect:none;fill:#aa40bf;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
          x="109.56799"
          y="391.59198"
-         id="text1158"><tspan
+         id="text3095"><tspan
            sodipodi:role="line"
            x="109.56799"
            y="391.59198"
            style="font-size:24px;line-height:18px;fill:#ffffff;fill-opacity:1"
-           id="tspan1154">Purple</tspan><tspan
-           id="tspan1156"
+           id="tspan3091">Purple</tspan><tspan
+           id="tspan3093"
            sodipodi:role="line"
            x="109.56799"
            y="416.59198"
            style="line-height:18px;fill:#ffffff;fill-opacity:1">HSL 290,50,50</tspan></text>
     </g>
     <g
-       id="g1170"
-       transform="translate(1430,230)">
+       id="g3105"
+       transform="translate(760)">
       <rect
-         style="opacity:1;vector-effect:none;fill:#1a80e5;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect1162"
-         width="180"
+         y="291.79999"
+         x="690"
          height="180"
-         x="220"
-         y="261.79999" />
+         width="180"
+         id="rect3099"
+         style="vector-effect:none;fill:#767676;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-         x="239.56799"
-         y="361.59198"
-         id="text1168"><tspan
+         x="709.56799"
+         y="391.59198"
+         id="text3103"><tspan
            sodipodi:role="line"
-           x="239.56799"
-           y="361.59198"
-           style="font-size:24px;line-height:18px;fill:#ffffff;fill-opacity:1"
-           id="tspan1164">BlueSub</tspan><tspan
-           sodipodi:role="line"
-           x="239.56799"
-           y="386.59198"
+           x="709.56799"
+           y="391.59198"
            style="line-height:18px;fill:#ffffff;fill-opacity:1"
-           id="tspan1166">HSL 210,80,50</tspan></text>
+           id="tspan3101" /></text>
     </g>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="colors2 (darken)"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     inkscape:label="colors2-5% (darken)"
+     style="display:inline">
     <rect
        style="fill:#000000;fill-opacity:0.05;stroke-width:0"
        id="rect920"
@@ -1227,41 +1216,55 @@
   </g>
   <g
      inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="colors2-8% (darken)"
+     style="display:none">
+    <rect
+       style="display:inline;fill:#000000;fill-opacity:0.08;stroke-width:0"
+       id="rect1052"
+       width="780"
+       height="580"
+       x="1050"
+       y="200" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
      id="layer6"
-     inkscape:label="override colors2">
+     inkscape:label="override colors2"
+     style="display:inline">
     <g
-       id="g1070"
+       id="g3007"
        transform="translate(960,-91.799988)">
       <rect
          y="291.79999"
          x="690"
          height="180"
          width="180"
-         id="rect1062"
+         id="rect2999"
          style="vector-effect:none;fill:#767676;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
          x="709.56799"
          y="391.59198"
-         id="text1068"><tspan
+         id="text3005"><tspan
            sodipodi:role="line"
            x="709.56799"
            y="391.59198"
            style="font-size:24px;line-height:18px;fill:#ffffff;fill-opacity:1"
-           id="tspan1064">Grey</tspan><tspan
+           id="tspan3001">Grey</tspan><tspan
            sodipodi:role="line"
            x="709.56799"
            y="416.59198"
            style="line-height:18px;fill:#ffffff;fill-opacity:1"
-           id="tspan1066">#767676</tspan></text>
+           id="tspan3003">#767676</tspan></text>
     </g>
     <g
-       id="g1130"
+       id="g3067"
        transform="translate(960,-91.799988)">
       <rect
          style="vector-effect:none;fill:#314fe8;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect1122"
+         id="rect3059"
          width="180"
          height="180"
          x="90"
@@ -1271,42 +1274,42 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
          x="109.568"
          y="791.59198"
-         id="text1128"
+         id="text3065"
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96"><tspan
            sodipodi:role="line"
            x="109.568"
            y="791.59198"
            style="font-size:24px;line-height:18px;fill:#ffffff;fill-opacity:1"
-           id="tspan1124">BlueDeep</tspan><tspan
+           id="tspan3061">BlueDeep</tspan><tspan
            sodipodi:role="line"
            x="109.568"
            y="816.59198"
            style="line-height:18px;fill:#ffffff;fill-opacity:1"
-           id="tspan1126">HSL 230,80,55</tspan></text>
+           id="tspan3063">HSL 230,80,55</tspan></text>
     </g>
     <g
-       id="g1150"
+       id="g3087"
        transform="translate(1160,308.20001)">
       <rect
          y="291.79999"
          x="90"
          height="180"
          width="180"
-         id="rect1142"
+         id="rect3079"
          style="vector-effect:none;fill:#802ad5;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
          x="109.56799"
          y="391.59198"
-         id="text1148"><tspan
+         id="text3085"><tspan
            sodipodi:role="line"
            x="109.56799"
            y="391.59198"
            style="font-size:24px;line-height:18px;fill:#ffffff;fill-opacity:1"
-           id="tspan1144">PurpleDeep</tspan><tspan
-           id="tspan1146"
+           id="tspan3081">PurpleDeep</tspan><tspan
+           id="tspan3083"
            sodipodi:role="line"
            x="109.56799"
            y="416.59198"
