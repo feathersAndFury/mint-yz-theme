@@ -719,7 +719,7 @@
     </g>
     <g
        id="g1806"
-       transform="translate(600,200)">
+       transform="translate(600)">
       <rect
          y="291.79999"
          x="90"
@@ -773,7 +773,7 @@
     </g>
     <g
        id="g1830"
-       transform="translate(600)">
+       transform="translate(200)">
       <rect
          y="291.79999"
          x="90"
@@ -824,6 +824,60 @@
            y="616.59198"
            x="109.56799"
            sodipodi:role="line">HSL 27,100,55</tspan></text>
+    </g>
+    <g
+       id="g973"
+       transform="translate(400)">
+      <rect
+         y="291.79999"
+         x="90"
+         height="180"
+         width="180"
+         id="rect965"
+         style="vector-effect:none;fill:#f92032;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text971"
+         y="391.59198"
+         x="109.56799"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan967"
+           style="font-size:24px;line-height:18px;fill:#ffffff;fill-opacity:1"
+           y="391.59198"
+           x="109.56799"
+           sodipodi:role="line">Red</tspan><tspan
+           style="line-height:18px;fill:#ffffff;fill-opacity:1"
+           y="416.59198"
+           x="109.56799"
+           sodipodi:role="line"
+           id="tspan969">HSL 355,95,55</tspan></text>
+    </g>
+    <g
+       id="g984"
+       transform="translate(600,200)">
+      <rect
+         y="291.79999"
+         x="90"
+         height="180"
+         width="180"
+         id="rect975"
+         style="vector-effect:none;fill:#ff1a3f;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text982"
+         y="391.59198"
+         x="109.56799"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan977"
+           style="font-size:24px;line-height:18px;fill:#ffffff;fill-opacity:1"
+           y="391.59198"
+           x="109.56799"
+           sodipodi:role="line">Red</tspan><tspan
+           style="line-height:18px;fill:#ffffff;fill-opacity:1"
+           y="416.59198"
+           x="109.56799"
+           sodipodi:role="line"
+           id="tspan979">HSL 350,100,55</tspan></text>
     </g>
   </g>
   <g
