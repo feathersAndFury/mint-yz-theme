@@ -18,10 +18,10 @@ y_hex_colors2 = {}
 y_hex_colors3 = {}
 y_hex_colors4 = {}
 
-y_hex_colors1["Mint"] = "#6ABF40"
-y_hex_colors2["Mint"] = "#65B63D"
-y_hex_colors3["Mint"] = "#88CC66"
-y_hex_colors4["Mint"] = "#4A862D"
+y_hex_colors1["Mint"] = "#60BF40"
+y_hex_colors2["Mint"] = "#5BB63D"
+y_hex_colors3["Mint"] = "#80CC66"
+y_hex_colors4["Mint"] = "#43862D"
 
 y_hex_colors1["MintFresh"] = "#0AC266"
 y_hex_colors2["MintFresh"] = "#0AB961"
@@ -34,12 +34,12 @@ y_hex_colors3["Grey"] = "#919191"
 y_hex_colors4["Grey"] = "#535353"
 
 y_hex_colors1["Red"] = "#FF1A40"
-y_hex_colors2["Red"] = "#F3193D"
+y_hex_colors2["Red"] = "#F20D33"
 y_hex_colors3["Red"] = "#FF4866"
 y_hex_colors4["Red"] = "#B3122D"
 
 y_hex_colors1["Orange"] = "#FF811A"
-y_hex_colors2["Orange"] = "#F37B19"
+y_hex_colors2["Orange"] = "#F2750D"
 y_hex_colors3["Orange"] = "#FF9A48"
 y_hex_colors4["Orange"] = "#B35B12"
 
@@ -69,7 +69,7 @@ y_hex_colors3["Purple"] = "#BB66CC"
 y_hex_colors4["Purple"] = "#772D86"
 
 y_hex_colors1["Pink"] = "#FF4CA6"
-y_hex_colors2["Pink"] = "#F3489E"
+y_hex_colors2["Pink"] = "#F53D9A"
 y_hex_colors3["Pink"] = "#FF70B8"
 y_hex_colors4["Pink"] = "#B33575"
 
