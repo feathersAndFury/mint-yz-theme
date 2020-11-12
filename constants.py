@@ -18,10 +18,10 @@ y_hex_colors2 = {}
 y_hex_colors3 = {}
 y_hex_colors4 = {}
 
-y_hex_colors1["Mint"] = "#60BF40"
-y_hex_colors2["Mint"] = "#5BB63D"
-y_hex_colors3["Mint"] = "#80CC66"
-y_hex_colors4["Mint"] = "#43862D"
+y_hex_colors1["MintHealth"] = "#60BF40"
+y_hex_colors2["MintHealth"] = "#5BB63D"
+y_hex_colors3["MintHealth"] = "#80CC66"
+y_hex_colors4["MintHealth"] = "#43862D"
 
 y_hex_colors1["MintFresh"] = "#0AC266"
 y_hex_colors2["MintFresh"] = "#0AB961"
@@ -33,25 +33,25 @@ y_hex_colors2["Grey"] = "#767676"
 y_hex_colors3["Grey"] = "#919191"
 y_hex_colors4["Grey"] = "#535353"
 
-y_hex_colors1["Red"] = "#FF1A40"
-y_hex_colors2["Red"] = "#F20D33"
-y_hex_colors3["Red"] = "#FF4866"
-y_hex_colors4["Red"] = "#B3122D"
+y_hex_colors1["Red"] = "#FF1A2D"
+y_hex_colors2["Red"] = "#FF1A2D"
+y_hex_colors3["Red"] = "#FF4857"
+y_hex_colors4["Red"] = "#B31220"
 
-y_hex_colors1["Orange"] = "#FF811A"
-y_hex_colors2["Orange"] = "#F2750D"
-y_hex_colors3["Orange"] = "#FF9A48"
-y_hex_colors4["Orange"] = "#B35B12"
+y_hex_colors1["Orange"] = "#FF761A"
+y_hex_colors2["Orange"] = "#FF761A"
+y_hex_colors3["Orange"] = "#FF9148"
+y_hex_colors4["Orange"] = "#B35312"
 
 y_hex_colors1["Aqua"] = "#00BACC"
 y_hex_colors2["Aqua"] = "#00B1C2"
 y_hex_colors3["Aqua"] = "#33C8D6"
 y_hex_colors4["Aqua"] = "#00838F"
 
-y_hex_colors1["Blue"] = "#0080FF"
-y_hex_colors2["Blue"] = "#007AF3"
-y_hex_colors3["Blue"] = "#3399FF"
-y_hex_colors4["Blue"] = "#005AB3"
+y_hex_colors1["Blue"] = "#0D80F2"
+y_hex_colors2["Blue"] = "#0C7AE7"
+y_hex_colors3["Blue"] = "#3D99F5"
+y_hex_colors4["Blue"] = "#095AAA"
 
 y_hex_colors1["BlueDeep"] = "#314FE8"
 y_hex_colors2["BlueDeep"] = "#314FE8"
