@@ -101,6 +101,8 @@ else:
 curdir = os.getcwd()
 
 if color_variation == "All":
+    if os.path.exists("src/Mint-Y/variations"):
+        os.system("rm -rf src/Mint-Y/variations/")
     for color in y_hex_colors1.keys():
         update_color(color)
 else:

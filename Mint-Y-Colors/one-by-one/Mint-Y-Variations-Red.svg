@@ -26,7 +26,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.71770833"
+     inkscape:zoom="1"
      inkscape:cx="960"
      inkscape:cy="540"
      inkscape:document-units="px"
@@ -936,7 +936,7 @@
        aria-label="✓"
        id="text987"
        style="font-size:36px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:center;text-anchor:middle;fill:#e5e5e5;fill-opacity:1"
-       transform="translate(-200)">
+       transform="translate(-200,200)">
       <path
          d="m 853.93359,663.78436 q 0.68555,0 1.03711,1.125 0.70313,2.10938 1.00196,2.10938 0.22851,0 0.47461,-0.35156 4.93945,-7.91016 9.14062,-12.79688 1.08984,-1.26562 3.46289,-1.26562 0.5625,0 0.75586,0.10546 0.19336,0.10547 0.19336,0.26368 0,0.24609 -0.58008,0.96679 -6.78515,8.15625 -12.58594,17.22657 -0.40429,0.63281 -1.65234,0.63281 -1.26562,0 -1.49414,-0.10547 -0.59766,-0.26367 -1.40625,-2.68945 -0.91406,-2.68946 -0.91406,-3.375 0,-0.73829 1.23047,-1.42383 0.75586,-0.42188 1.33593,-0.42188 z"
          style="font-size:36px;fill:#e5e5e5;fill-opacity:1"
