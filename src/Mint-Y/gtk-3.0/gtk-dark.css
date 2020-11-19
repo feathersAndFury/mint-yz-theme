@@ -2669,7 +2669,7 @@ infobar {
   infobar.error {
     background-color: #F42537; }
   infobar.question {
-    background-color: #00BBCC; }
+    background-color: #00AACC; }
 
 .primary-toolbar toolbar.selection-mode button:hover,
 .selection-mode.primary-toolbar button:hover, .primary-toolbar .selection-mode.inline-toolbar button:hover, headerbar.selection-mode button:hover, row:selected button, infobar.info button, infobar.question button, infobar.warning button, infobar.error button {

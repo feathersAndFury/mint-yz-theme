@@ -18,15 +18,15 @@ y_hex_colors2 = {}
 y_hex_colors3 = {}
 y_hex_colors4 = {}
 
+y_hex_colors1["MintOld"] = "#8BB158"
+y_hex_colors2["MintOld"] = "#84A954"
+y_hex_colors3["MintOld"] = "#A2C179"
+y_hex_colors4["MintOld"] = "#627C3E"
+
 y_hex_colors1["MintHealth"] = "#6ABF40"
 y_hex_colors2["MintHealth"] = "#65B63D"
 y_hex_colors3["MintHealth"] = "#88CC66"
 y_hex_colors4["MintHealth"] = "#4A862D"
-
-y_hex_colors1["MintSoda"] = "#0AC266"
-y_hex_colors2["MintSoda"] = "#0AB961"
-y_hex_colors3["MintSoda"] = "#3BCE85"
-y_hex_colors4["MintSoda"] = "#078848"
 
 y_hex_colors1["MintSoft"] = "#26C073"
 y_hex_colors2["MintSoft"] = "#24B76E"
@@ -48,33 +48,33 @@ y_hex_colors2["Orange"] = "#F2690D"
 y_hex_colors3["Orange"] = "#FF9148"
 y_hex_colors4["Orange"] = "#B35312"
 
-y_hex_colors1["Aqua"] = "#0CB8DA"
-y_hex_colors2["Aqua"] = "#0BAFD0"
-y_hex_colors3["Aqua"] = "#3DC6E1"
-y_hex_colors4["Aqua"] = "#088199"
+y_hex_colors1["Aqua"] = "#00AACC"
+y_hex_colors2["Aqua"] = "#00A2C2"
+y_hex_colors3["Aqua"] = "#33BBD6"
+y_hex_colors4["Aqua"] = "#00778F"
 
 y_hex_colors1["Blue"] = "#1A80E5"
 y_hex_colors2["Blue"] = "#197ADA"
 y_hex_colors3["Blue"] = "#4899EA"
 y_hex_colors4["Blue"] = "#125AA1"
 
-y_hex_colors1["BlueDeep"] = "#314FE8"
+y_hex_colors1["BlueDeep"] = "#3753E2"
 y_hex_colors2["BlueDeep"] = "#3753E2"
-y_hex_colors3["BlueDeep"] = "#5A72ED"
-y_hex_colors4["BlueDeep"] = "#2237A3"
+y_hex_colors3["BlueDeep"] = "#5F75E8"
+y_hex_colors4["BlueDeep"] = "#273A9F"
 
-y_hex_colors1["PurpleDeep"] = "#802AD5"
-y_hex_colors2["PurpleDeep"] = "#802AD5"
-y_hex_colors3["PurpleDeep"] = "#9955DD"
-y_hex_colors4["PurpleDeep"] = "#5A1D96"
+y_hex_colors1["PurpleDeep"] = "#8033CC"
+y_hex_colors2["PurpleDeep"] = "#8033CC"
+y_hex_colors3["PurpleDeep"] = "#995CD6"
+y_hex_colors4["PurpleDeep"] = "#5A248F"
 
 y_hex_colors1["Purple"] = "#AA40BF"
 y_hex_colors2["Purple"] = "#A23DB6"
 y_hex_colors3["Purple"] = "#BB66CC"
 y_hex_colors4["Purple"] = "#772D86"
 
-y_hex_colors1["Pink"] = "#FF4CA6"
+y_hex_colors1["Pink"] = "#FB51A6"
 y_hex_colors2["Pink"] = "#F0429A"
-y_hex_colors3["Pink"] = "#FF70B8"
-y_hex_colors4["Pink"] = "#B33575"
+y_hex_colors3["Pink"] = "#FC74B8"
+y_hex_colors4["Pink"] = "#B03975"
 

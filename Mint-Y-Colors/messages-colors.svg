@@ -335,7 +335,7 @@
          x="810"
          y="697.95624"
          id="tspan962"
-         style="line-height:50px">$question_color: #00BBCC;</tspan><tspan
+         style="line-height:50px">$question_color: #00AACC;</tspan><tspan
          id="tspan1004"
          sodipodi:role="line"
          x="810"
@@ -347,7 +347,7 @@
          y="797.95624"
          style="line-height:50px">$drop_target_color: #FF761A;</tspan></text>
     <rect
-       style="fill:#00bbcc;fill-opacity:1;stroke-width:0.82903504"
+       style="fill:#00aacc;fill-opacity:1;stroke-width:0.82903504"
        id="rect966"
        width="150"
        height="40"
