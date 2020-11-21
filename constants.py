@@ -44,7 +44,7 @@ y_hex_colors3["Red"] = "#FF4858"
 y_hex_colors4["Red"] = "#B31220"
 
 y_hex_colors1["Orange"] = "#FF761A"
-y_hex_colors2["Orange"] = "#F2690D"
+y_hex_colors2["Orange"] = "#FF6B0A"
 y_hex_colors3["Orange"] = "#FF9148"
 y_hex_colors4["Orange"] = "#B35312"
 
