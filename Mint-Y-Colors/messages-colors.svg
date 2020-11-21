@@ -310,7 +310,7 @@
          x="810"
          y="447.95624"
          id="tspan952"
-         style="line-height:50px">$error_color: #F42537;</tspan><tspan
+         style="line-height:50px">$error_color: #FF1A2E;</tspan><tspan
          sodipodi:role="line"
          x="810"
          y="497.95624"
@@ -325,7 +325,7 @@
          x="810"
          y="597.95624"
          id="tspan958"
-         style="line-height:50px">$destructive_color: #F42537;</tspan><tspan
+         style="line-height:50px">$destructive_color: #FF1A2E;</tspan><tspan
          sodipodi:role="line"
          x="810"
          y="647.95624"
@@ -376,7 +376,7 @@
        height="40"
        width="150"
        id="rect970"
-       style="fill:#f42537;fill-opacity:1;stroke-width:0.82903504" />
+       style="fill:#ff1a2e;fill-opacity:1;stroke-width:0.82903504" />
     <rect
        inkscape:tile-y0="678"
        inkscape:tile-x0="50"
@@ -403,7 +403,7 @@
        height="40"
        width="150"
        id="rect976"
-       style="fill:#f42537;fill-opacity:1;stroke-width:0.82903504" />
+       style="fill:#ff1a2e;fill-opacity:1;stroke-width:0.82903504" />
     <rect
        inkscape:tile-y0="678"
        inkscape:tile-x0="50"

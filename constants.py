@@ -38,10 +38,10 @@ y_hex_colors2["Grey"] = "#767676"
 y_hex_colors3["Grey"] = "#919191"
 y_hex_colors4["Grey"] = "#535353"
 
-y_hex_colors1["Red"] = "#F42537"
+y_hex_colors1["Red"] = "#FF1A2E"
 y_hex_colors2["Red"] = "#F20D20"
-y_hex_colors3["Red"] = "#F6515F"
-y_hex_colors4["Red"] = "#AB1A27"
+y_hex_colors3["Red"] = "#FF4858"
+y_hex_colors4["Red"] = "#B31220"
 
 y_hex_colors1["Orange"] = "#FF761A"
 y_hex_colors2["Orange"] = "#F2690D"
