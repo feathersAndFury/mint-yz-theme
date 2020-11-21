@@ -39,7 +39,7 @@ y_hex_colors3["Grey"] = "#919191"
 y_hex_colors4["Grey"] = "#535353"
 
 y_hex_colors1["Red"] = "#F42537"
-y_hex_colors2["Red"] = "#F31B2D"
+y_hex_colors2["Red"] = "#F20D20"
 y_hex_colors3["Red"] = "#F6515F"
 y_hex_colors4["Red"] = "#AB1A27"
 
