@@ -27,7 +27,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="742.81637"
+     inkscape:cx="1048.1637"
      inkscape:cy="540"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -637,6 +637,33 @@
      id="layer1"
      transform="translate(0,-91.799988)">
     <g
+       id="g1024"
+       transform="translate(960,200)">
+      <rect
+         y="291.79999"
+         x="90"
+         height="180"
+         width="180"
+         id="rect1014"
+         style="vector-effect:none;fill:#eb0027;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text1022"
+         y="391.59198"
+         x="109.56799"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan1017"
+           style="font-size:24px;line-height:18px;fill:#ffffff;fill-opacity:1"
+           y="391.59198"
+           x="109.56799"
+           sodipodi:role="line">Red</tspan><tspan
+           style="line-height:18px;fill:#ffffff;fill-opacity:1"
+           y="416.59198"
+           x="109.56799"
+           sodipodi:role="line"
+           id="tspan1020">HSL 350,100,46</tspan></text>
+    </g>
+    <g
        id="g995"
        transform="translate(400,200)">
       <rect
@@ -672,7 +699,7 @@
          height="180"
          width="180"
          id="rect1022"
-         style="vector-effect:none;fill:#ff1a40;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="vector-effect:none;fill:#ff143b;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
          id="text1028"
          y="391.59198"
@@ -688,7 +715,7 @@
            y="416.59198"
            x="109.56799"
            sodipodi:role="line"
-           id="tspan1026">HSL 350,100,55</tspan></text>
+           id="tspan1026">HSL 350,100,54</tspan></text>
     </g>
     <g
        id="g1756"
@@ -746,7 +773,7 @@
     </g>
     <g
        id="g1005"
-       transform="translate(0,400)">
+       transform="translate(600,400)">
       <rect
          y="291.79999"
          x="90"
@@ -961,7 +988,7 @@
     </g>
     <g
        id="g1008"
-       transform="translate(960,200)">
+       transform="translate(1160,200)">
       <rect
          y="291.79999"
          x="90"
@@ -1015,7 +1042,7 @@
     </g>
     <g
        id="g1040"
-       transform="translate(600,400)">
+       transform="translate(0,400)">
       <rect
          y="291.79999"
          x="90"
