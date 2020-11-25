@@ -18,7 +18,7 @@ $link_visited_color: #AA40BF;
 //___
 $selection_mode_bg: $selected_bg_color;
 $selection_mode_fg: $selected_fg_color;
-$warning_color: #FF6D0A;
+$warning_color: #FF7200;
 $warning_fg_color: white;
 $error_color: #FF1428;
 $error_fg_color: white;
@@ -27,7 +27,7 @@ $destructive_color: #FF1428;
 $suggested_color: #26C073;
 $question_color: #00AACC;
 //___
-$drop_target_color: #FF6D0A;
+$drop_target_color: #FF7200;
 
 //insensitive state derived colors
 $insensitive_fg_color: if($variant == 'light', transparentize($fg_color, 0.45), transparentize($fg_color, 0.45));

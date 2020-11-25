@@ -953,7 +953,7 @@
        style="vector-effect:none;fill:#767676;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <g
        id="g1840"
-       transform="translate(199.998)"
+       transform="translate(200)"
        style="display:inline;stroke-width:1">
       <rect
          y="491.79999"
@@ -961,7 +961,7 @@
          height="180"
          width="180"
          id="rect1832"
-         style="vector-effect:none;fill:#ff6d0a;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="vector-effect:none;fill:#ff7200;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
          id="text1838"
          y="591.59198"
@@ -977,7 +977,7 @@
            style="line-height:18px;fill:#ffffff;fill-opacity:1;stroke-width:1"
            y="616.59198"
            x="109.56799"
-           sodipodi:role="line">HSL 24,100,52</tspan></text>
+           sodipodi:role="line">HSL 27,100,50</tspan></text>
     </g>
     <g
        id="g1080"
@@ -1212,34 +1212,6 @@
            style="line-height:18px;fill:#ffffff;fill-opacity:1">HSL 150,100,34</tspan></text>
     </g>
     <g
-       id="g1160"
-       transform="translate(1159.998,-91.799988)"
-       style="display:inline;stroke-width:1">
-      <rect
-         y="491.79999"
-         x="90"
-         height="180"
-         width="180"
-         id="rect1152"
-         style="vector-effect:none;fill:#f56100;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <text
-         id="text1158"
-         y="591.59198"
-         x="109.56799"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
-         xml:space="preserve"><tspan
-           id="tspan1154"
-           style="font-size:24px;line-height:18px;fill:#ffffff;fill-opacity:1;stroke-width:1"
-           y="591.59198"
-           x="109.56799"
-           sodipodi:role="line">Orange</tspan><tspan
-           id="tspan1156"
-           style="line-height:18px;fill:#ffffff;fill-opacity:1;stroke-width:1"
-           y="616.59198"
-           x="109.56799"
-           sodipodi:role="line">HSL 24,100,48</tspan></text>
-    </g>
-    <g
        id="g1060"
        transform="translate(960,108.20002)"
        style="display:inline;stroke-width:1">
@@ -1266,6 +1238,34 @@
            x="109.56799"
            sodipodi:role="line"
            id="tspan1056">HSL 355,100,46</tspan></text>
+    </g>
+    <g
+       id="g1052"
+       transform="translate(1160,-91.799988)"
+       style="display:inline;stroke-width:1">
+      <rect
+         y="491.79999"
+         x="90"
+         height="180"
+         width="180"
+         id="rect1044"
+         style="vector-effect:none;fill:#ff7200;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text1050"
+         y="591.59198"
+         x="109.56799"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+         xml:space="preserve"><tspan
+           id="tspan1046"
+           style="font-size:24px;line-height:18px;fill:#ffffff;fill-opacity:1;stroke-width:1"
+           y="591.59198"
+           x="109.56799"
+           sodipodi:role="line">Orange</tspan><tspan
+           id="tspan1048"
+           style="line-height:18px;fill:#ffffff;fill-opacity:1;stroke-width:1"
+           y="616.59198"
+           x="109.56799"
+           sodipodi:role="line">HSL 27,100,50</tspan></text>
     </g>
   </g>
   <g
