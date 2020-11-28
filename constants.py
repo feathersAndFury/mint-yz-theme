@@ -18,15 +18,15 @@ y_hex_colors2 = {}
 y_hex_colors3 = {}
 y_hex_colors4 = {}
 
-y_hex_colors1["MintSoda"] = "#3DB83D"
-y_hex_colors2["MintSoda"] = "#3AAC3A"
-y_hex_colors3["MintSoda"] = "#64C664"
-y_hex_colors4["MintSoda"] = "#2B812B"
+y_hex_colors1["MintSoda"] = "#40BF40"
+y_hex_colors2["MintSoda"] = "#3DB63D"
+y_hex_colors3["MintSoda"] = "#66CC66"
+y_hex_colors4["MintSoda"] = "#2D862D"
 
-y_hex_colors1["MintSoft"] = "#00B85C"
-y_hex_colors2["MintSoft"] = "#00AD57"
-y_hex_colors3["MintSoft"] = "#33C67D"
-y_hex_colors4["MintSoft"] = "#008141"
+y_hex_colors1["MintSoft"] = "#0AC266"
+y_hex_colors2["MintSoft"] = "#0AB961"
+y_hex_colors3["MintSoft"] = "#3BCE85"
+y_hex_colors4["MintSoft"] = "#078848"
 
 y_hex_colors1["Grey"] = "#767676"
 y_hex_colors2["Grey"] = "#767676"
