@@ -24,7 +24,7 @@ y_hex_colors3["MintSoda"] = "#66CC66"
 y_hex_colors4["MintSoda"] = "#2D862D"
 
 y_hex_colors1["MintSoft"] = "#00B85C"
-y_hex_colors2["MintSoft"] = "#00B85C"
+y_hex_colors2["MintSoft"] = "#00AD57"
 y_hex_colors3["MintSoft"] = "#33C67D"
 y_hex_colors4["MintSoft"] = "#008141"
 
