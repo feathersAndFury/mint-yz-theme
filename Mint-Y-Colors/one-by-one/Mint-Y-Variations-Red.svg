@@ -27,7 +27,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="734.21503"
+     inkscape:cx="983.97598"
      inkscape:cy="476"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -772,33 +772,6 @@
            id="tspan1035">HSL 355,100,54</tspan></text>
     </g>
     <g
-       id="g1060"
-       transform="translate(960,400)">
-      <rect
-         y="291.79999"
-         x="90"
-         height="180"
-         width="180"
-         id="rect1052"
-         style="vector-effect:none;fill:#f50015;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <text
-         id="text1058"
-         y="391.59198"
-         x="109.56799"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           id="tspan1054"
-           style="font-size:24px;line-height:18px;fill:#ffffff;fill-opacity:1"
-           y="391.59198"
-           x="109.56799"
-           sodipodi:role="line">Red</tspan><tspan
-           style="line-height:18px;fill:#ffffff;fill-opacity:1"
-           y="416.59198"
-           x="109.56799"
-           sodipodi:role="line"
-           id="tspan1056">HSL 355,100,48</tspan></text>
-    </g>
-    <g
        id="g1070">
       <rect
          y="291.79999"
@@ -825,22 +798,32 @@
            id="tspan1066">HSL 5,100,50</tspan></text>
     </g>
     <g
-       id="g1080"
-       transform="translate(600,400)">
+       aria-label="✓"
+       id="g1044"
+       style="font-size:36px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:center;text-anchor:middle;fill:#e5e5e5;fill-opacity:1"
+       transform="translate(-200,200)">
+      <path
+         d="m 853.93359,663.78436 q 0.68555,0 1.03711,1.125 0.70313,2.10938 1.00196,2.10938 0.22851,0 0.47461,-0.35156 4.93945,-7.91016 9.14062,-12.79688 1.08984,-1.26562 3.46289,-1.26562 0.5625,0 0.75586,0.10546 0.19336,0.10547 0.19336,0.26368 0,0.24609 -0.58008,0.96679 -6.78515,8.15625 -12.58594,17.22657 -0.40429,0.63281 -1.65234,0.63281 -1.26562,0 -1.49414,-0.10547 -0.59766,-0.26367 -1.40625,-2.68945 -0.91406,-2.68946 -0.91406,-3.375 0,-0.73829 1.23047,-1.42383 0.75586,-0.42188 1.33593,-0.42188 z"
+         style="font-size:36px;fill:#e5e5e5;fill-opacity:1"
+         id="path1042" />
+    </g>
+    <g
+       id="g971"
+       transform="translate(1360,400)">
       <rect
          y="291.79999"
          x="90"
          height="180"
          width="180"
-         id="rect1072"
-         style="vector-effect:none;fill:#ff0a1f;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         id="rect962"
+         style="vector-effect:none;fill:#f20d1f;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
-         id="text1078"
+         id="text969"
          y="391.59198"
          x="109.56799"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           id="tspan1074"
+           id="tspan964"
            style="font-size:24px;line-height:18px;fill:#ffffff;fill-opacity:1"
            y="391.59198"
            x="109.56799"
@@ -849,17 +832,44 @@
            y="416.59198"
            x="109.56799"
            sodipodi:role="line"
-           id="tspan1076">HSL 355,100,52</tspan></text>
+           id="tspan966">HSL 355,90,50</tspan></text>
+    </g>
+    <g
+       id="g981"
+       transform="translate(1160,400)">
+      <rect
+         y="291.79999"
+         x="90"
+         height="180"
+         width="180"
+         id="rect973"
+         style="vector-effect:none;fill:#eb0014;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text979"
+         y="391.59198"
+         x="109.56799"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan975"
+           style="font-size:24px;line-height:18px;fill:#ffffff;fill-opacity:1"
+           y="391.59198"
+           x="109.56799"
+           sodipodi:role="line">Red</tspan><tspan
+           style="line-height:18px;fill:#ffffff;fill-opacity:1"
+           y="416.59198"
+           x="109.56799"
+           sodipodi:role="line"
+           id="tspan977">HSL 355,100,46</tspan></text>
     </g>
     <g
        aria-label="✓"
-       id="g1044"
+       id="g986"
        style="font-size:36px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:center;text-anchor:middle;fill:#e5e5e5;fill-opacity:1"
-       transform="translate(0,200)">
+       transform="translate(760,200)">
       <path
          d="m 853.93359,663.78436 q 0.68555,0 1.03711,1.125 0.70313,2.10938 1.00196,2.10938 0.22851,0 0.47461,-0.35156 4.93945,-7.91016 9.14062,-12.79688 1.08984,-1.26562 3.46289,-1.26562 0.5625,0 0.75586,0.10546 0.19336,0.10547 0.19336,0.26368 0,0.24609 -0.58008,0.96679 -6.78515,8.15625 -12.58594,17.22657 -0.40429,0.63281 -1.65234,0.63281 -1.26562,0 -1.49414,-0.10547 -0.59766,-0.26367 -1.40625,-2.68945 -0.91406,-2.68946 -0.91406,-3.375 0,-0.73829 1.23047,-1.42383 0.75586,-0.42188 1.33593,-0.42188 z"
          style="font-size:36px;fill:#e5e5e5;fill-opacity:1"
-         id="path1042" />
+         id="path984" />
     </g>
   </g>
   <g

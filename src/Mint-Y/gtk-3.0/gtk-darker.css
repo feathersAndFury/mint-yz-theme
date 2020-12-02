@@ -402,26 +402,26 @@ button {
     background-clip: border-box;
     color: #ffffff;
     outline-color: #ffffff;
-    background-color: #0AB860;
-    border-color: #0AB860; }
+    background-color: #40BF40;
+    border-color: #40BF40; }
     button.suggested-action.flat {
       border-color: transparent;
       background-color: transparent;
       background-image: none;
-      color: #0AB860;
-      outline-color: rgba(10, 184, 96, 0.3); }
+      color: #40BF40;
+      outline-color: rgba(64, 191, 64, 0.3); }
     button.suggested-action:hover {
       background-clip: border-box;
       color: #ffffff;
       outline-color: #ffffff;
-      background-color: #0de879;
-      border-color: #0de879; }
+      background-color: #66cc66;
+      border-color: #66cc66; }
     button.suggested-action:active, button.suggested-action:checked {
       background-clip: border-box;
       color: #ffffff;
       outline-color: #ffffff;
-      background-color: #078847;
-      border-color: #078847; }
+      background-color: #339933;
+      border-color: #339933; }
     button.suggested-action.flat:disabled {
       border-color: transparent;
       background-color: transparent;
@@ -1151,30 +1151,30 @@ headerbar .linked:not(.vertical).path-bar > button {
   background-clip: border-box;
   color: #ffffff;
   outline-color: #ffffff;
-  background-color: #0AB860;
-  border-color: #0AB860; }
+  background-color: #40BF40;
+  border-color: #40BF40; }
   
   .primary-toolbar button.suggested-action.flat, headerbar button.suggested-action.flat {
     border-color: transparent;
     background-color: transparent;
     background-image: none;
-    color: #0AB860;
-    outline-color: rgba(10, 184, 96, 0.3); }
+    color: #40BF40;
+    outline-color: rgba(64, 191, 64, 0.3); }
   
   .primary-toolbar button.suggested-action:hover, headerbar button.suggested-action:hover {
     background-clip: border-box;
     color: #ffffff;
     outline-color: #ffffff;
-    background-color: #0de879;
-    border-color: #0de879; }
+    background-color: #66cc66;
+    border-color: #66cc66; }
   
   .primary-toolbar button.suggested-action:active, headerbar button.suggested-action:active,
   .primary-toolbar button.suggested-action:checked, headerbar button.suggested-action:checked {
     background-clip: border-box;
     color: #ffffff;
     outline-color: #ffffff;
-    background-color: #078847;
-    border-color: #078847; }
+    background-color: #339933;
+    border-color: #339933; }
   
   .primary-toolbar button.suggested-action:disabled, headerbar button.suggested-action:disabled {
     color: rgba(222, 214, 214, 0.55);
@@ -2280,8 +2280,8 @@ levelbar block.high {
   background-color: #92b372; }
 
 levelbar block.full {
-  border-color: #0AB860;
-  background-color: #0AB860; }
+  border-color: #40BF40;
+  background-color: #40BF40; }
 
 levelbar block.empty {
   background-color: rgba(48, 48, 48, 0.2);
@@ -3931,20 +3931,20 @@ filechooser placessidebar.sidebar list scrollbar, .nemo-window .sidebar scrollba
   background-clip: border-box;
   color: #ffffff;
   outline-color: #ffffff;
-  background-color: #0AB860;
-  border-color: #0AB860; }
+  background-color: #40BF40;
+  border-color: #40BF40; }
   #restart_button.button:hover {
     background-clip: border-box;
     color: #ffffff;
     outline-color: #ffffff;
-    background-color: #0de879;
-    border-color: #0de879; }
+    background-color: #66cc66;
+    border-color: #66cc66; }
   #restart_button.button:active, #restart_button.button:checked {
     background-clip: border-box;
     color: #ffffff;
     outline-color: #ffffff;
-    background-color: #078847;
-    border-color: #078847; }
+    background-color: #339933;
+    border-color: #339933; }
 
 #greeter_infobar {
   border-bottom-width: 0;
@@ -4012,7 +4012,7 @@ window.background.lightdm .lightdm-combo {
 @define-color unfocused_borders #BDBDBD;
 @define-color warning_color #FF7200;
 @define-color error_color #FF1428;
-@define-color success_color #0AB860;
+@define-color success_color #40BF40;
 @define-color placeholder_text_color #A8A8A8;
 @define-color content_view_bg #ffffff;
 @define-color wm_title #303030;
