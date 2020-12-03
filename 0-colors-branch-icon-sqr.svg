@@ -7,14 +7,14 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1280"
+   width="640"
    height="640"
-   viewBox="0 0 1280 640"
+   viewBox="0 0 640 640"
    id="svg2"
    version="1.1"
    inkscape:version="1.0.1 (1.0.1+r74)"
-   sodipodi:docname="0-colors-branch-icon.svg"
-   inkscape:export-filename="/home/sebastien/mint-yz-theme/0-colors-branch-icon.png"
+   sodipodi:docname="0-colors-branch-icon-sqr.svg"
+   inkscape:export-filename="/home/sebastien/mint-yz-theme/0-colors-branch-icon-sqr.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
@@ -112,7 +112,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -132,7 +132,7 @@
      inkscape:label="Layer 1"
      transform="translate(-16,-32)">
     <g
-       transform="matrix(0.91428571,0,0,0.91428571,442.97143,-537.93125)"
+       transform="matrix(0.91428571,0,0,0.91428571,122.9716,-537.93125)"
        id="g58">
       <circle
          cy="973.3623"
@@ -150,7 +150,7 @@
     <circle
        style="fill:#ff1428;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
        id="path863"
-       cx="656"
+       cx="336.00018"
        cy="152"
        r="40"
        inkscape:transform-center-x="0.5"
@@ -158,8 +158,8 @@
     <circle
        style="fill:#ff7200;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
        id="circle879"
-       cx="737.83368"
-       cy="-301.20892"
+       cx="478.94839"
+       cy="-113.11774"
        r="40"
        inkscape:transform-center-x="-117.46615"
        inkscape:transform-center-y="-162.52894"
@@ -167,8 +167,8 @@
     <circle
        style="fill:#40bf40;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
        id="circle881"
-       cx="537.64899"
-       cy="-715.96326"
+       cx="438.76361"
+       cy="-411.62534"
        r="40"
        inkscape:transform-center-x="-190.5642"
        inkscape:transform-center-y="-62.443799"
@@ -176,8 +176,8 @@
     <circle
        style="fill:#14b866;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
        id="circle883"
-       cx="131.90968"
-       cy="-933.841"
+       cx="230.79507"
+       cy="-629.50311"
        r="40"
        inkscape:transform-center-x="-190.87324"
        inkscape:transform-center-y="61.492746"
@@ -185,8 +185,8 @@
     <circle
        style="fill:#00aacc;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
        id="circle885"
-       cx="-324.40564"
-       cy="-871.62018"
+       cx="-65.52034"
+       cy="-683.52899"
        r="40"
        inkscape:transform-center-x="-118.27516"
        inkscape:transform-center-y="161.94113"
@@ -194,7 +194,7 @@
     <circle
        style="fill:#1a80e5;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
        id="circle887"
-       cx="-657"
+       cx="-337.00018"
        cy="-553.06708"
        r="40"
        inkscape:transform-center-x="-0.49999809"
@@ -203,8 +203,8 @@
     <circle
        style="fill:#3753e2;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
        id="circle889"
-       cx="-738.83368"
-       cy="-99.858139"
+       cx="-479.94839"
+       cy="-287.94931"
        r="40"
        inkscape:transform-center-x="117.46614"
        inkscape:transform-center-y="162.52891"
@@ -212,8 +212,8 @@
     <circle
        style="fill:#8033cc;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
        id="circle891"
-       cx="-538.64899"
-       cy="314.89624"
+       cx="-439.76361"
+       cy="10.558321"
        r="40"
        inkscape:transform-center-x="190.56419"
        inkscape:transform-center-y="62.443777"
@@ -221,8 +221,8 @@
     <circle
        style="fill:#aa40bf;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
        id="circle893"
-       cx="-132.90967"
-       cy="532.77399"
+       cx="-231.79506"
+       cy="228.43607"
        r="40"
        inkscape:transform-center-x="190.87318"
        inkscape:transform-center-y="-61.49274"
@@ -230,8 +230,8 @@
     <circle
        style="fill:#ff4da6;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
        id="circle895"
-       cx="323.40564"
-       cy="470.55319"
+       cx="64.52034"
+       cy="282.46201"
        r="40"
        inkscape:transform-center-x="118.27512"
        inkscape:transform-center-y="-161.9411"

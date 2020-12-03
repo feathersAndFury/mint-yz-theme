@@ -1,3 +1,11 @@
+mint-yz-theme (2.4) UNRELEASED; urgency=medium
+
+  * Subtle updates on most colors.
+  * Subtle darkening on most of the dark themes.
+  * Pulled small updates from the upstream source.
+
+ -- Sébastien Bouchard <sebastjava@hotmail.ca>  Wed, 02 Dec 2020 21:37:30 -0500 
+
 mint-yz-theme (2.3) UNRELEASED; urgency=medium
 
   * Subtle updates on 7 colors.
