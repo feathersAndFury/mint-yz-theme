@@ -112,7 +112,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -138,7 +138,7 @@
          cy="973.3623"
          cx="233"
          id="ellipse4247"
-         style="fill:#00b85c;fill-opacity:1;stroke:none;stroke-width:22.3357;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#40bf40;fill-opacity:1;stroke:none;stroke-width:22.3357;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          r="140" />
       <path
          sodipodi:nodetypes="csssccsccsssc"
@@ -156,7 +156,7 @@
        inkscape:transform-center-x="0.5"
        inkscape:transform-center-y="-200.53356" />
     <circle
-       style="fill:#ff6d0a;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#ff7200;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
        id="circle879"
        cx="737.83368"
        cy="-301.20892"
@@ -165,7 +165,7 @@
        inkscape:transform-center-y="-162.52894"
        transform="rotate(36)" />
     <circle
-       style="fill:#3db83d;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#40bf40;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
        id="circle881"
        cx="537.64899"
        cy="-715.96326"
@@ -174,7 +174,7 @@
        inkscape:transform-center-y="-62.443799"
        transform="rotate(72)" />
     <circle
-       style="fill:#00b85c;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#0ab860;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
        id="circle883"
        cx="131.90968"
        cy="-933.841"
