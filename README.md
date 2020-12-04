@@ -1,4 +1,6 @@
-# Mint-Yz: The New Colors of a New Era (GTK theme)
+# Mint-Yz: The New Colors of a New Era (GTK theme)(Flatpak development fork)
+**This repo exists solely to package Mint-Yz for Flathub. All contributions should be directed to the upstream repo https://github.com/SebastJava/mint-yz-theme, unless they are Flatpak/Flathub-specifc. This repo will attempt to stay near-even with upstream.**
+
 Don't miss the **Mint-Yz-icons** with the same color scheme: https://github.com/SebastJava/mint-yz-icons
 
 **The interface of all your software and the entire desktop is now rejuvenated, modernized. This is a fork from your reliable Mint-Y theme. It is the standard Linux Mint GTK theme now in a new edition with more energized and readable colors.**
